@@ -1,0 +1,43 @@
+.homeCarousel img{
+    height: 500px;
+    
+   
+    object-fit: cover;
+    
+
+    
+}
+
+.homeCarousel{
+ position: absolute;   
+    width: 100%;
+    z-index:-1 ;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px #999; 
+    
+    
+}
+
+
+.homeCarousel::before {
+    content: '';
+    background: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.6);
+    z-index: 1;
+}
+@media(max-width:768px){
+    .homeCarousel img{
+        height: 300px;
+        
+        
+        object-fit: cover;
+            
+    }
+    
+
+}

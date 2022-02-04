@@ -1,0 +1,174 @@
+
+.menu_productos_background{
+    background: url(../img/slide/57295.jpg) center center/cover;
+    height: 450px;    
+}
+
+.menu_productos_1{
+ box-shadow: 2px 2px 5px #999;
+ background-color: rgba(0,0,0,0.4);
+ height: 60px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ font-size: 1.2em;
+ width: 100%;
+ padding: 0;
+ 
+}
+
+.menu_productos_1 a{
+    padding:20px;
+    text-decoration: none;
+    
+    
+}
+.menu_productos_2{
+    margin-top: 30px;
+    background-color: rgba(0,0,0,0.3);
+    box-shadow: 2px 2px 5px #999;
+   }
+
+.menu_productos li{
+    list-style: none;
+    
+}
+
+.menu_manejo_fluidos{
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    text-align: start;
+}
+
+.menu_manejo_fluidos_1{
+  
+    background-color: rgba(0,0,0,0.1);
+    width: 30%;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.menu_manejo_fluidos_2{
+    width: 70%;
+    background-color: rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+.menu_manejo_fluidos ul {
+  
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    line-height: 3.5em;
+}
+
+
+
+.bombas_diafragma img{
+   width: 150px;
+   height: 150px;
+   object-fit: cover;
+   border-radius: 5px;
+   margin: 20px;
+}
+
+.bombas_diafragma{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items:center ;
+
+}
+.bombas_piston img{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.bombas_piston{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+
+}
+
+.menu_construccion_1 ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    font-size: 1em;
+    padding: 20px;
+    line-height: 2em;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+
+.menu_industrial_1 ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 40%;
+    font-size: 1em;
+    padding: 20px;
+    margin: auto;
+    line-height: 2em;
+       
+ }
+
+
+    .menu_industrial_2,
+    .menu_construccion_2{
+        background-color: rgba(0,0,0,0.1);
+    }
+    .box_construccion {
+    
+        display: block;
+       
+        
+      }
+      .box_industrial {
+    
+        display: block;
+       
+        
+      }
+
+
+@media(max-width:768px){
+/*     .menu_manejo_fluidos{
+        flex-direction: column;
+    }
+
+    .menu_manejo_fluidos_1{
+     width: 100%;
+    }
+    .menu_manejo_fluidos_2{
+        width: 100%;
+     
+    } */
+  
+    
+    .box_construccion {
+      width: 50%;   
+      }
+      .box_industrial {
+        width: 50%;     
+      }
+      .menu_industrial_1 ul{
+            width: 100%;
+              
+            text-align: center
+        }
+        .menu_construccion_1 ul{
+            width: 100%;
+            text-align: center
+            ;
+         }  
+
+}

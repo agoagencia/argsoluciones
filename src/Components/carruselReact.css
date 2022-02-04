@@ -1,0 +1,101 @@
+/* --------Slide show------------------ */
+
+.img_carousel img{
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  max-width: 200px;
+  
+  
+}
+
+.img_carousel{
+       
+}
+
+.slider_react{
+    
+    
+
+}
+
+/* --------------------------------------- */
+
+.soluciones_industria_mineria{
+   width: 1366px;
+   height: 400px; 
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 55px;
+   margin: auto;
+   padding:20px ;
+   text-align: center;
+   border-bottom: rgba(0,0,0,0.2);
+   
+  /*  background-color: rgba(0,0,0,0.1); */
+}
+/* .soluciones_industria_izq h2{
+    font: 1.3em;
+ 
+ 
+} */
+
+.soluciones_industria_izq {
+    width: 50%;
+    /* color: #ddd; */
+    font-size: 80px;
+    border-bottom: 1px solid rgba(0,0,0,0.1); 
+    /*  background-color: rgba(0,0,0,0.1); */
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: #131f47; */
+     color: #07226f ;
+}
+.soluciones_industria_der{
+    width: 50%;
+    /* border-bottom: 1px solid rgba(0,0,0,0.1);  */
+}
+
+.soluciones_industria_izq h2{
+    
+    font-size: 48px;
+    
+    line-height: 1.5em;
+    
+    
+}
+
+
+
+.slider_react{
+    /*  background-color: royalblue; */
+      
+ }
+
+
+@media(max-width:768px){
+    .soluciones_industria_mineria{
+        flex-direction: column;
+        margin-top: 0;
+    }
+    .soluciones_industria_izq{
+        width: 100%;
+         
+       
+    }
+    .soluciones_industria_izq h2{
+        font-size: 30px;
+         
+       
+    }
+    .soluciones_industria_der{
+        width: 100%;
+               
+    }
+    .slider_react{
+        
+    }
+}
