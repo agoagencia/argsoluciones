@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/argsoluciones/static/css/main.3417dc83.css",
+    "main.css": "/argsoluciones/static/css/main.5560741a.css",
     "main.js": "/argsoluciones/static/js/main.5e6497be.js",
     "static/js/787.c488542e.chunk.js": "/argsoluciones/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/argsoluciones/static/media/POCA-9.596e473a496ff7710c94.jpg",
@@ -34,12 +34,12 @@
     "static/media/slick.ttf": "/argsoluciones/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/argsoluciones/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/argsoluciones/index.html",
-    "main.3417dc83.css.map": "/argsoluciones/static/css/main.3417dc83.css.map",
+    "main.5560741a.css.map": "/argsoluciones/static/css/main.5560741a.css.map",
     "main.5e6497be.js.map": "/argsoluciones/static/js/main.5e6497be.js.map",
     "787.c488542e.chunk.js.map": "/argsoluciones/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3417dc83.css",
+    "static/css/main.5560741a.css",
     "static/js/main.5e6497be.js"
   ]
 }
