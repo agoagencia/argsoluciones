@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.036f0a3b.css",
-    "main.js": "/static/js/main.63fd0136.js",
+    "main.js": "/static/js/main.f2da91be.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
@@ -16,12 +16,12 @@
     "static/media/s-gruas-1024x683.jpg": "/static/media/s-gruas-1024x683.390118475a3358de0d3e.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8037cd0d94babf2d495d.jpg",
     "static/media/2.jpg": "/static/media/2.dfed67b524f662ba67e0.jpg",
+    "static/media/ruben.jpeg": "/static/media/ruben.2569a468a9ecb8c9f124.jpeg",
     "static/media/ARG-LOGO-SIN-LETRASx.png": "/static/media/ARG-LOGO-SIN-LETRASx.cc904e7c50f6ffe91bb1.png",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
-    "static/media/office5.jpg": "/static/media/office5.6de15d7ed45f1fb01b90.jpg",
+    "static/media/ruben2.jpeg": "/static/media/ruben2.a78d83b7c500dee2b183.jpeg",
     "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
     "static/media/materiales-construccion.jpg": "/static/media/materiales-construccion.a608f4671c14a1ac8079.jpg",
-    "static/media/office1.jpg": "/static/media/office1.0ba36b51498dd4d46abb.jpg",
     "static/media/office1x.jpg": "/static/media/office1x.0ba36b51498dd4d46abb.jpg",
     "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
@@ -33,18 +33,18 @@
     "static/media/LM2305A_12_B__29528.1633497880.jpg": "/static/media/LM2305A_12_B__29528.1633497880.c1e14b9122964e8155d4.jpg",
     "static/media/reparaciones.png": "/static/media/reparaciones.a10a27c580f32d49712f.png",
     "static/media/ingenieria1.png": "/static/media/ingenieria1.8f833823ce5e01e58ee3.png",
-    "static/media/ARGsinfondo-02(1).png": "/static/media/ARGsinfondo-02(1).d8b99b8e41aaec63f475.png",
+    "static/media/ARGparaImpresiones-02.png": "/static/media/ARGparaImpresiones-02.6deafeb3e2755d23ca94.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.036f0a3b.css.map": "/static/css/main.036f0a3b.css.map",
-    "main.63fd0136.js.map": "/static/js/main.63fd0136.js.map",
+    "main.f2da91be.js.map": "/static/js/main.f2da91be.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.036f0a3b.css",
-    "static/js/main.63fd0136.js"
+    "static/js/main.f2da91be.js"
   ]
 }
