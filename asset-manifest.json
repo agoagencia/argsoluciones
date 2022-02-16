@@ -1,27 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.e628b569.css",
-    "main.js": "/static/js/main.b79ea1e1.js",
+    "main.css": "/static/css/main.72e0c48f.css",
+    "main.js": "/static/js/main.2b164d51.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
     "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.5856bc1abf2d3a9fd83d.jpg",
     "static/media/57295.jpg": "/static/media/57295.a427affa1f9c32ed04c0.jpg",
+    "static/media/pexels-kateryna-babaieva-2760241.jpg": "/static/media/pexels-kateryna-babaieva-2760241.fafd439ea2e97e234ee3.jpg",
+    "static/media/4.jpg": "/static/media/4.b259d1a6a71bee5e41b3.jpg",
     "static/media/nuevo-metodo-mineria.jpg": "/static/media/nuevo-metodo-mineria.b259d1a6a71bee5e41b3.jpg",
     "static/media/81bmXNBua6L._AC_SL1500_.jpg": "/static/media/81bmXNBua6L._AC_SL1500_.5b3eb05f1aed92462ebb.jpg",
     "static/media/DHS711Z.jpg": "/static/media/DHS711Z.7531d326544c8195b55d.jpg",
     "static/media/crear-una-constructora-guia-completa.jpg": "/static/media/crear-una-constructora-guia-completa.b474da9d3e06ece3b88c.jpg",
     "static/media/s-gruas-1024x683.jpg": "/static/media/s-gruas-1024x683.390118475a3358de0d3e.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8037cd0d94babf2d495d.jpg",
+    "static/media/2.jpg": "/static/media/2.dfed67b524f662ba67e0.jpg",
     "static/media/ARG-LOGO-SIN-LETRASx.png": "/static/media/ARG-LOGO-SIN-LETRASx.cc904e7c50f6ffe91bb1.png",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
     "static/media/office5.jpg": "/static/media/office5.6de15d7ed45f1fb01b90.jpg",
+    "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
     "static/media/materiales-construccion.jpg": "/static/media/materiales-construccion.a608f4671c14a1ac8079.jpg",
     "static/media/office1.jpg": "/static/media/office1.0ba36b51498dd4d46abb.jpg",
     "static/media/office1x.jpg": "/static/media/office1x.0ba36b51498dd4d46abb.jpg",
     "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
     "static/media/integracion.png": "/static/media/integracion.8cfee5b377f6c76ceee5.png",
+    "static/media/1.jpg": "/static/media/1.553a5d64c59d34dff93c.jpg",
     "static/media/JH40C3JackHammerp001ljpg.jpg": "/static/media/JH40C3JackHammerp001ljpg.cd175bd9c0f086c03732.jpg",
     "static/media/asesoria.png": "/static/media/asesoria.e67e53dfe628f0293777.png",
     "static/media/capacitacion1.png": "/static/media/capacitacion1.c549c16d40047e288239.png",
@@ -34,12 +39,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.e628b569.css.map": "/static/css/main.e628b569.css.map",
-    "main.b79ea1e1.js.map": "/static/js/main.b79ea1e1.js.map",
+    "main.72e0c48f.css.map": "/static/css/main.72e0c48f.css.map",
+    "main.2b164d51.js.map": "/static/js/main.2b164d51.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e628b569.css",
-    "static/js/main.b79ea1e1.js"
+    "static/css/main.72e0c48f.css",
+    "static/js/main.2b164d51.js"
   ]
 }
