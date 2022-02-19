@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.aa4eebee.css",
+    "main.css": "/static/css/main.3970afa7.css",
     "main.js": "/static/js/main.0e3f4c3e.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
@@ -39,12 +39,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.aa4eebee.css.map": "/static/css/main.aa4eebee.css.map",
+    "main.3970afa7.css.map": "/static/css/main.3970afa7.css.map",
     "main.0e3f4c3e.js.map": "/static/js/main.0e3f4c3e.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa4eebee.css",
+    "static/css/main.3970afa7.css",
     "static/js/main.0e3f4c3e.js"
   ]
 }
