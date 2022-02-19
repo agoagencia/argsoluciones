@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fcd7b073.css",
-    "main.js": "/static/js/main.8c8a3fb1.js",
+    "main.css": "/static/css/main.e31c7420.css",
+    "main.js": "/static/js/main.6727733d.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.jpg": "/static/media/Minería_Responsable_JRC_Abridora-Desktop_Mobile.385383cccf011c5d7bbe.jpg",
@@ -27,6 +27,7 @@
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
     "static/media/integracion.png": "/static/media/integracion.8cfee5b377f6c76ceee5.png",
     "static/media/1.jpg": "/static/media/1.553a5d64c59d34dff93c.jpg",
+    "static/media/mapa-arg.png": "/static/media/mapa-arg.884f03acf0180dd8f494.png",
     "static/media/JH40C3JackHammerp001ljpg.jpg": "/static/media/JH40C3JackHammerp001ljpg.cd175bd9c0f086c03732.jpg",
     "static/media/asesoria.png": "/static/media/asesoria.e67e53dfe628f0293777.png",
     "static/media/capacitacion1.png": "/static/media/capacitacion1.c549c16d40047e288239.png",
@@ -39,12 +40,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.fcd7b073.css.map": "/static/css/main.fcd7b073.css.map",
-    "main.8c8a3fb1.js.map": "/static/js/main.8c8a3fb1.js.map",
+    "main.e31c7420.css.map": "/static/css/main.e31c7420.css.map",
+    "main.6727733d.js.map": "/static/js/main.6727733d.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd7b073.css",
-    "static/js/main.8c8a3fb1.js"
+    "static/css/main.e31c7420.css",
+    "static/js/main.6727733d.js"
   ]
 }
