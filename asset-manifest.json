@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.047f4f93.css",
-    "main.js": "/static/js/main.7c2d86c9.js",
+    "main.css": "/static/css/main.3831048f.css",
+    "main.js": "/static/js/main.5325dcbf.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
+    "static/media/img_home_middle.PNG": "/static/media/img_home_middle.9e1dc35648e3d847cc3d.PNG",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/pexels-digital-core-239919.jpg": "/static/media/pexels-digital-core-239919.f4165a0bde9c9748f57a.jpg",
-    "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.9694ef752f7c79d12bed.jpg",
     "static/media/pexels-ivan-129544.jpg": "/static/media/pexels-ivan-129544.fb42862fe7c3d08c9971.jpg",
     "static/media/57295.jpg": "/static/media/57295.a427affa1f9c32ed04c0.jpg",
     "static/media/pexels-kateryna-babaieva-2760241.jpg": "/static/media/pexels-kateryna-babaieva-2760241.fafd439ea2e97e234ee3.jpg",
     "static/media/4.jpg": "/static/media/4.b259d1a6a71bee5e41b3.jpg",
     "static/media/81bmXNBua6L._AC_SL1500_.jpg": "/static/media/81bmXNBua6L._AC_SL1500_.5b3eb05f1aed92462ebb.jpg",
     "static/media/DHS711Z.jpg": "/static/media/DHS711Z.7531d326544c8195b55d.jpg",
+    "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.9694ef752f7c79d12bed.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8037cd0d94babf2d495d.jpg",
     "static/media/2.jpg": "/static/media/2.dfed67b524f662ba67e0.jpg",
-    "static/media/ruben.jpeg": "/static/media/ruben.2569a468a9ecb8c9f124.jpeg",
+    "static/media/r12.PNG": "/static/media/r12.b78b160b29107d4b1f3d.PNG",
+    "static/media/r11.PNG": "/static/media/r11.013406a90468fcfdd0b9.PNG",
     "static/media/ARG-LOGO-SIN-LETRASx.png": "/static/media/ARG-LOGO-SIN-LETRASx.cc904e7c50f6ffe91bb1.png",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
-    "static/media/ruben2.jpeg": "/static/media/ruben2.a78d83b7c500dee2b183.jpeg",
     "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
-    "static/media/office1x.jpg": "/static/media/office1x.0ba36b51498dd4d46abb.jpg",
+    "static/media/office8.jpg": "/static/media/office8.a86034a38d768601562b.jpg",
     "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
     "static/media/integracion.png": "/static/media/integracion.8cfee5b377f6c76ceee5.png",
@@ -37,12 +38,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.047f4f93.css.map": "/static/css/main.047f4f93.css.map",
-    "main.7c2d86c9.js.map": "/static/js/main.7c2d86c9.js.map",
+    "main.3831048f.css.map": "/static/css/main.3831048f.css.map",
+    "main.5325dcbf.js.map": "/static/js/main.5325dcbf.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.047f4f93.css",
-    "static/js/main.7c2d86c9.js"
+    "static/css/main.3831048f.css",
+    "static/js/main.5325dcbf.js"
   ]
 }
