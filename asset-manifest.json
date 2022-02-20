@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.049ac915.css",
-    "main.js": "/static/js/main.c6581e9a.js",
+    "main.css": "/static/css/main.047f4f93.css",
+    "main.js": "/static/js/main.7c2d86c9.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/pexels-digital-core-239919.jpg": "/static/media/pexels-digital-core-239919.f4165a0bde9c9748f57a.jpg",
@@ -20,7 +20,6 @@
     "static/media/ruben2.jpeg": "/static/media/ruben2.a78d83b7c500dee2b183.jpeg",
     "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
     "static/media/office1x.jpg": "/static/media/office1x.0ba36b51498dd4d46abb.jpg",
-    "static/media/office8.jpg": "/static/media/office8.a86034a38d768601562b.jpg",
     "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
     "static/media/integracion.png": "/static/media/integracion.8cfee5b377f6c76ceee5.png",
@@ -28,7 +27,6 @@
     "static/media/mapa-arg.png": "/static/media/mapa-arg.884f03acf0180dd8f494.png",
     "static/media/JH40C3JackHammerp001ljpg.jpg": "/static/media/JH40C3JackHammerp001ljpg.cd175bd9c0f086c03732.jpg",
     "static/media/asesoria.png": "/static/media/asesoria.e67e53dfe628f0293777.png",
-    "static/media/office2.jpg": "/static/media/office2.70414836c68c70c41720.jpg",
     "static/media/capacitacion1.png": "/static/media/capacitacion1.c549c16d40047e288239.png",
     "static/media/LM2305A_12_B__29528.1633497880.jpg": "/static/media/LM2305A_12_B__29528.1633497880.c1e14b9122964e8155d4.jpg",
     "static/media/reparaciones.png": "/static/media/reparaciones.a10a27c580f32d49712f.png",
@@ -39,12 +37,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.049ac915.css.map": "/static/css/main.049ac915.css.map",
-    "main.c6581e9a.js.map": "/static/js/main.c6581e9a.js.map",
+    "main.047f4f93.css.map": "/static/css/main.047f4f93.css.map",
+    "main.7c2d86c9.js.map": "/static/js/main.7c2d86c9.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.049ac915.css",
-    "static/js/main.c6581e9a.js"
+    "static/css/main.047f4f93.css",
+    "static/js/main.7c2d86c9.js"
   ]
 }
