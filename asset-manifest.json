@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3eaff2be.css",
-    "main.js": "/static/js/main.4f4f08a2.js",
+    "main.css": "/static/css/main.243401c4.css",
+    "main.js": "/static/js/main.ba05a1c3.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/img_home_middle.PNG": "/static/media/img_home_middle.9e1dc35648e3d847cc3d.PNG",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
@@ -11,7 +11,6 @@
     "static/media/pexels-kateryna-babaieva-2760241.jpg": "/static/media/pexels-kateryna-babaieva-2760241.fafd439ea2e97e234ee3.jpg",
     "static/media/4.jpg": "/static/media/4.b259d1a6a71bee5e41b3.jpg",
     "static/media/81bmXNBua6L._AC_SL1500_.jpg": "/static/media/81bmXNBua6L._AC_SL1500_.5b3eb05f1aed92462ebb.jpg",
-    "static/media/DHS711Z.jpg": "/static/media/DHS711Z.7531d326544c8195b55d.jpg",
     "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.9694ef752f7c79d12bed.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8037cd0d94babf2d495d.jpg",
     "static/media/2.jpg": "/static/media/2.dfed67b524f662ba67e0.jpg",
@@ -22,7 +21,6 @@
     "static/media/office5.jpg": "/static/media/office5.6de15d7ed45f1fb01b90.jpg",
     "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
     "static/media/office8.jpg": "/static/media/office8.a86034a38d768601562b.jpg",
-    "static/media/bo5030-lijadora-rotorbital-125mm-700x675.jpg": "/static/media/bo5030-lijadora-rotorbital-125mm-700x675.c3981e8c6de7ede43ec5.jpg",
     "static/media/20987-3478205.jpg": "/static/media/20987-3478205.c236e9bd623f990a2a9c.jpg",
     "static/media/integracion.png": "/static/media/integracion.8cfee5b377f6c76ceee5.png",
     "static/media/1.jpg": "/static/media/1.553a5d64c59d34dff93c.jpg",
@@ -39,12 +37,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.3eaff2be.css.map": "/static/css/main.3eaff2be.css.map",
-    "main.4f4f08a2.js.map": "/static/js/main.4f4f08a2.js.map",
+    "main.243401c4.css.map": "/static/css/main.243401c4.css.map",
+    "main.ba05a1c3.js.map": "/static/js/main.ba05a1c3.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3eaff2be.css",
-    "static/js/main.4f4f08a2.js"
+    "static/css/main.243401c4.css",
+    "static/js/main.ba05a1c3.js"
   ]
 }
