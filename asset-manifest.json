@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.096f199b.css",
-    "main.js": "/static/js/main.97e6430d.js",
+    "main.css": "/static/css/main.2b45f667.css",
+    "main.js": "/static/js/main.0f73da78.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
@@ -16,9 +16,9 @@
     "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.9694ef752f7c79d12bed.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8037cd0d94babf2d495d.jpg",
     "static/media/2.jpg": "/static/media/2.dfed67b524f662ba67e0.jpg",
+    "static/media/ARG-LOGOx.png": "/static/media/ARG-LOGOx.3205061b3700a5a3c394.png",
     "static/media/r12.PNG": "/static/media/r12.b78b160b29107d4b1f3d.PNG",
     "static/media/r11.PNG": "/static/media/r11.013406a90468fcfdd0b9.PNG",
-    "static/media/ARG-LOGO-SIN-LETRASx.png": "/static/media/ARG-LOGO-SIN-LETRASx.cc904e7c50f6ffe91bb1.png",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
     "static/media/office5.jpg": "/static/media/office5.6de15d7ed45f1fb01b90.jpg",
     "static/media/3.jpg": "/static/media/3.a608f4671c14a1ac8079.jpg",
@@ -39,12 +39,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.096f199b.css.map": "/static/css/main.096f199b.css.map",
-    "main.97e6430d.js.map": "/static/js/main.97e6430d.js.map",
+    "main.2b45f667.css.map": "/static/css/main.2b45f667.css.map",
+    "main.0f73da78.js.map": "/static/js/main.0f73da78.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.096f199b.css",
-    "static/js/main.97e6430d.js"
+    "static/css/main.2b45f667.css",
+    "static/js/main.0f73da78.js"
   ]
 }
