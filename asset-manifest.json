@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2bda4e7e.css",
-    "main.js": "/static/js/main.2f022dc8.js",
+    "main.css": "/static/css/main.d116e31f.css",
+    "main.js": "/static/js/main.390dfc77.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
@@ -215,18 +215,18 @@
     "static/media/LM2305A_12_B__29528.1633497880.jpg": "/static/media/LM2305A_12_B__29528.1633497880.c1e14b9122964e8155d4.jpg",
     "static/media/reparaciones.png": "/static/media/reparaciones.a10a27c580f32d49712f.png",
     "static/media/ingenieria1.png": "/static/media/ingenieria1.8f833823ce5e01e58ee3.png",
-    "static/media/ARGparaImpresiones-02.png": "/static/media/ARGparaImpresiones-02.6deafeb3e2755d23ca94.png",
+    "static/media/ARG-blanco.png": "/static/media/ARG-blanco.807dbb72d5483154fa43.png",
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.2bda4e7e.css.map": "/static/css/main.2bda4e7e.css.map",
-    "main.2f022dc8.js.map": "/static/js/main.2f022dc8.js.map",
+    "main.d116e31f.css.map": "/static/css/main.d116e31f.css.map",
+    "main.390dfc77.js.map": "/static/js/main.390dfc77.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bda4e7e.css",
-    "static/js/main.2f022dc8.js"
+    "static/css/main.d116e31f.css",
+    "static/js/main.390dfc77.js"
   ]
 }
