@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0f8e3bfe.css",
-    "main.js": "/static/js/main.c36e2ea4.js",
+    "main.js": "/static/js/main.e53c9bc5.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
@@ -33,6 +33,7 @@
     "static/media/11.-Frie -Ball Paquete de dispensador 222069.jpg": "/static/media/11.-Frie -Ball Paquete de dispensador 222069.bccde94a673be25524db.jpg",
     "static/media/6.-Polipasto eléctricos de Cadena Serie S.jpg": "/static/media/6.-Polipasto eléctricos de Cadena Serie S.9ff88e60e514896b2f8d.jpg",
     "static/media/15.-Regulador de presion de fluido aro 651790-A3B-B.jpg": "/static/media/15.-Regulador de presion de fluido aro 651790-A3B-B.640b1e1c329876702b25.jpg",
+    "static/media/5.-Frenado Dinámico.jpg": "/static/media/5.-Frenado Dinámico.061772baab723f7100ae.jpg",
     "static/media/7.-Controlador IC1M1A1AWS.jpg": "/static/media/7.-Controlador IC1M1A1AWS.7523bd1e02e06b7cf078.jpg",
     "static/media/16.-Bloque de Portafusible L600M.jpg": "/static/media/16.-Bloque de Portafusible L600M.2eedb2251253aa732fed.jpg",
     "static/media/3.-Balancin mecanico BMDL-4.jpg": "/static/media/3.-Balancin mecanico BMDL-4.980360ce1a8ad642a4dd.jpg",
@@ -42,6 +43,7 @@
     "static/media/2.-Polipasto Electrico de Cadena de 1-2 tonelada ELK50-1ND50.jpg": "/static/media/2.-Polipasto Electrico de Cadena de 1-2 tonelada ELK50-1ND50.31ee8324ab74c806366a.jpg",
     "static/media/4.-Polipasto eléctricos de Cadena Serie F.jpg": "/static/media/4.-Polipasto eléctricos de Cadena Serie F.4e813bbf2ab3c00d5e19.jpg",
     "static/media/15.-Pistola Serie QE4 QE4PP010P11Q04.jpg": "/static/media/15.-Pistola Serie QE4 QE4PP010P11Q04.a2061506df8c10a7f648.jpg",
+    "static/media/6.-Resistencias de fabricación especial.jpg": "/static/media/6.-Resistencias de fabricación especial.bc67c6adb72091f700dc.jpg",
     "static/media/3.-Polipasto Electrico de Cadena de 1-4 t. ELK25-1ND25.jpg": "/static/media/3.-Polipasto Electrico de Cadena de 1-4 t. ELK25-1ND25.02bc1f451dc22e89e819.jpg",
     "static/media/16.-Valvula aro stop 635040.jpg": "/static/media/16.-Valvula aro stop 635040.b7b2c1010bde7e232ad0.jpg",
     "static/media/4.-Lijadora neumatica orbital aleatoria 4151 Ingersoll Rand.jpg": "/static/media/4.-Lijadora neumatica orbital aleatoria 4151 Ingersoll Rand.46f2968dcaea22f65c46.jpg",
@@ -59,6 +61,7 @@
     "static/media/15.-Fusible Clase SPF.jpg": "/static/media/15.-Fusible Clase SPF.169a5e9344da028599b0.jpg",
     "static/media/3.-Extension Apex ex-250-3.jpg": "/static/media/3.-Extension Apex ex-250-3.9cc76680e3d7f9b6784d.jpg",
     "static/media/14.-Pistola Serie QE2 QE2PS003P11Q04.jpg": "/static/media/14.-Pistola Serie QE2 QE2PS003P11Q04.82515b69e0d7ed35e042.jpg",
+    "static/media/4.-Resistencia tipo Mica.jpg": "/static/media/4.-Resistencia tipo Mica.6257fa56851c18021f06.jpg",
     "static/media/9.-Destornillador electrico de baja torsion en linea VersaTec EL0410B.jpg": "/static/media/9.-Destornillador electrico de baja torsion en linea VersaTec EL0410B.53f666b66a9a4045a4b2.jpg",
     "static/media/5.-Dado magnetico Apex MX-1108.jpg": "/static/media/5.-Dado magnetico Apex MX-1108.c1b0323dec1f3a7938c6.jpg",
     "static/media/5.-Cable electrico GEA40-C0RD-3M.jpg": "/static/media/5.-Cable electrico GEA40-C0RD-3M.b979310bc4a993bac475.jpg",
@@ -101,16 +104,20 @@
     "static/media/1.-Dado Apex M1P08.jpg": "/static/media/1.-Dado Apex M1P08.38e54af4d361495c8595.jpg",
     "static/media/6.-Dado torx Apex TX-1408.jpg": "/static/media/6.-Dado torx Apex TX-1408.fc3067d596cafad9dc1b.jpg",
     "static/media/4.-Brazo mecanico QTA150.jpg": "/static/media/4.-Brazo mecanico QTA150.91c3e291ca6b7f59c157.jpg",
+    "static/media/2.-Resistencia eléctrica tipo banda.jpg": "/static/media/2.-Resistencia eléctrica tipo banda.34953e33a07cc0650ef7.jpg",
     "static/media/1.-Agitador 225883.jpg": "/static/media/1.-Agitador 225883.c6ed9baa0af7077cd627.jpg",
+    "static/media/3.-Resistencia tipo cartucho.jpg": "/static/media/3.-Resistencia tipo cartucho.8fb32de5997dc9495196.jpg",
     "static/media/8.-Cople Aro 636077.jpg": "/static/media/8.-Cople Aro 636077.4d7c818d892877d4148f.jpg",
     "static/media/1.-Punta Apex 1950-1x.jpg": "/static/media/1.-Punta Apex 1950-1x.ea9511417a17d441e97a.jpg",
     "static/media/2.-Atornillador de cable angular QE4AT013PA2S04.jpg": "/static/media/2.-Atornillador de cable angular QE4AT013PA2S04.cf2ac5c99051f708bdf8.jpg",
     "static/media/10.-Punta Apex 491-pzdx.jpg": "/static/media/10.-Punta Apex 491-pzdx.c1173522677db1b44e78.jpg",
     "static/media/r12.PNG": "/static/media/r12.b78b160b29107d4b1f3d.PNG",
+    "static/media/7.-Bandas de núcleo cerámico.jpg": "/static/media/7.-Bandas de núcleo cerámico.6749d3b94da9382e4ea0.jpg",
     "static/media/15.-Punta Apex Am-04.jpg": "/static/media/15.-Punta Apex Am-04.295b300f4a9d17c0ab7f.jpg",
     "static/media/r11.PNG": "/static/media/r11.013406a90468fcfdd0b9.PNG",
     "static/media/9.-Filtro para material Aro 651420-40.jpg": "/static/media/9.-Filtro para material Aro 651420-40.2cbf70be109659758e2d.jpg",
     "static/media/17.-Punta Phillips Apex 492-bx.jpg": "/static/media/17.-Punta Phillips Apex 492-bx.9ae91629be829429c830.jpg",
+    "static/media/1.-Resistencias tipo tubular.jpg": "/static/media/1.-Resistencias tipo tubular.20e8a2580950d2bb4d93.jpg",
     "static/media/22.-Punta Torx Apex 440-tx-20x.jpg": "/static/media/22.-Punta Torx Apex 440-tx-20x.7079f69e2ec1d10f4700.jpg",
     "static/media/2.-Adaptador Magnetico Apex M-490-2.jpg": "/static/media/2.-Adaptador Magnetico Apex M-490-2.7992af433c5a3bc9c768.jpg",
     "static/media/11.-Destornillador electrico en linea ELB2620N.jpg": "/static/media/11.-Destornillador electrico en linea ELB2620N.2736c110394cb6d5f7e4.jpg",
@@ -222,11 +229,11 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.0f8e3bfe.css.map": "/static/css/main.0f8e3bfe.css.map",
-    "main.c36e2ea4.js.map": "/static/js/main.c36e2ea4.js.map",
+    "main.e53c9bc5.js.map": "/static/js/main.e53c9bc5.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f8e3bfe.css",
-    "static/js/main.c36e2ea4.js"
+    "static/js/main.e53c9bc5.js"
   ]
 }
