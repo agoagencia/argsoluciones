@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0564d9da.css",
+    "main.css": "/static/css/main.4d2dfa81.css",
     "main.js": "/static/js/main.3ef6c5a6.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
+    "static/media/atencion-personalizada.png": "/static/media/atencion-personalizada.f421035450a2037cb013.png",
     "static/media/img_home_middle.PNG": "/static/media/img_home_middle.9e1dc35648e3d847cc3d.PNG",
+    "static/media/personal-capacitado.png": "/static/media/personal-capacitado.827eaa7113332466e686.png",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/pexels-ivan-129544.jpg": "/static/media/pexels-ivan-129544.fb42862fe7c3d08c9971.jpg",
     "static/media/pexels-pixabay-256310.jpg": "/static/media/pexels-pixabay-256310.db73e6434996bafe40c7.jpg",
@@ -159,7 +161,6 @@
     "static/media/11.-Atornillador de cable lineal QE2SP007P11S04.jpg": "/static/media/11.-Atornillador de cable lineal QE2SP007P11S04.cb6fe391b7b1210d2954.jpg",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
     "static/media/18.-Punta Phillips Apex 492-cx.jpg": "/static/media/18.-Punta Phillips Apex 492-cx.a287dfc8799171c41c20.jpg",
-    "static/media/office5.jpg": "/static/media/office5.6de15d7ed45f1fb01b90.jpg",
     "static/media/7.-Amoladora verticale 99V60P107.jpg": "/static/media/7.-Amoladora verticale 99V60P107.d3969a192fa958b87dbd.jpg",
     "static/media/2.-Lijadora angular extendida M2L025RS10.jpg": "/static/media/2.-Lijadora angular extendida M2L025RS10.c42350d24c3eb140059e.jpg",
     "static/media/1.-Remachadora de bateria RIV-750.jpg": "/static/media/1.-Remachadora de bateria RIV-750.7a5e8344e12eebd5fa76.jpg",
@@ -228,12 +229,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.0564d9da.css.map": "/static/css/main.0564d9da.css.map",
+    "main.4d2dfa81.css.map": "/static/css/main.4d2dfa81.css.map",
     "main.3ef6c5a6.js.map": "/static/js/main.3ef6c5a6.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0564d9da.css",
+    "static/css/main.4d2dfa81.css",
     "static/js/main.3ef6c5a6.js"
   ]
 }
