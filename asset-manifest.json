@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da7d63e1.css",
-    "main.js": "/static/js/main.13502dfa.js",
+    "main.js": "/static/js/main.59bf7196.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
@@ -184,6 +184,7 @@
     "static/media/14.-Punta Apex AM-03.jpg": "/static/media/14.-Punta Apex AM-03.8a1cd52b640925a2e63e.jpg",
     "static/media/13.-Punta Apex 493x.jpg": "/static/media/13.-Punta Apex 493x.8e271e2a97256bec2bc9.jpg",
     "static/media/11.-Atornillador de cable lineal QE2SP007P11S04.jpg": "/static/media/11.-Atornillador de cable lineal QE2SP007P11S04.cb6fe391b7b1210d2954.jpg",
+    "static/media/11.-Turbina recta 14″ 308B Ingersoll Rand.jpg": "/static/media/11.-Turbina recta 14″ 308B Ingersoll Rand.cb6fe391b7b1210d2954.jpg",
     "static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.jpg": "/static/media/engrapadora-neumatica-calibre-22-071-mm-truper-trup-13177.243a9f23a047303a506e.jpg",
     "static/media/18.-Punta Phillips Apex 492-cx.jpg": "/static/media/18.-Punta Phillips Apex 492-cx.a287dfc8799171c41c20.jpg",
     "static/media/7.-Amoladora verticale 99V60P107.jpg": "/static/media/7.-Amoladora verticale 99V60P107.d3969a192fa958b87dbd.jpg",
@@ -255,11 +256,11 @@
     "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "main.da7d63e1.css.map": "/static/css/main.da7d63e1.css.map",
-    "main.13502dfa.js.map": "/static/js/main.13502dfa.js.map",
+    "main.59bf7196.js.map": "/static/js/main.59bf7196.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da7d63e1.css",
-    "static/js/main.13502dfa.js"
+    "static/js/main.59bf7196.js"
   ]
 }
