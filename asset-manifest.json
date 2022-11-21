@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.da7d63e1.css",
-    "main.js": "/static/js/main.97d2d826.js",
+    "main.js": "/static/js/main.467ffa27.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/WIPlargo10.mp4": "/static/media/WIPlargo10.485da482ab36f4678b4b.mp4",
@@ -241,7 +241,6 @@
     "static/media/29.-Martillo cincelador 2DA1SA Serie D.jpg": "/static/media/29.-Martillo cincelador 2DA1SA Serie D.8b3e242eb53399f7ec5f.jpg",
     "static/media/28.-Martillo cincelador 2A2SA Serie A.jpg": "/static/media/28.-Martillo cincelador 2A2SA Serie A.d22f3591eab949043996.jpg",
     "static/media/16.-Destornillador en línea QS1P10S1D.jpg": "/static/media/16.-Destornillador en línea QS1P10S1D.14968c65e4691c376834.jpg",
-    "static/media/JH40C3JackHammerp001ljpg.jpg": "/static/media/JH40C3JackHammerp001ljpg.cd175bd9c0f086c03732.jpg",
     "static/media/asesoria.png": "/static/media/asesoria.e67e53dfe628f0293777.png",
     "static/media/34.-Taladro angular 5LK1B1 Serie 5.jpg": "/static/media/34.-Taladro angular 5LK1B1 Serie 5.5e2dfc2d6e9574056879.jpg",
     "static/media/capacitacion1.png": "/static/media/capacitacion1.c549c16d40047e288239.png",
@@ -252,14 +251,14 @@
     "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "index.html": "/index.html",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
     "main.da7d63e1.css.map": "/static/css/main.da7d63e1.css.map",
-    "main.97d2d826.js.map": "/static/js/main.97d2d826.js.map",
+    "main.467ffa27.js.map": "/static/js/main.467ffa27.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da7d63e1.css",
-    "static/js/main.97d2d826.js"
+    "static/js/main.467ffa27.js"
   ]
 }
