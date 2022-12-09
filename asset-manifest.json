@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.da7d63e1.css",
-    "main.js": "/static/js/main.487e20ac.js",
+    "main.css": "/static/css/main.9c73424e.css",
+    "main.js": "/static/js/main.2e3e774e.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/atencion-personalizada.png": "/static/media/atencion-personalizada.f421035450a2037cb013.png",
@@ -214,6 +214,7 @@
     "static/media/43.-Turbina recta 1-4” G1H200RG4.jpg": "/static/media/43.-Turbina recta 1-4” G1H200RG4.1b373dbf83975317538b.jpg",
     "static/media/35.-Taladro angular 7LN3A44 Serie 7.jpg": "/static/media/35.-Taladro angular 7LN3A44 Serie 7.810b4c50c8550ff43b01.jpg",
     "static/media/27.-Lijadora de banda angular G1A200RS818.jpg": "/static/media/27.-Lijadora de banda angular G1A200RS818.7b2f80e648b1fc06efab.jpg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.288c668ccb8033e17ce1.png",
     "static/media/4.-Amoladora Serie 61 Pro 61H120H63.jpg": "/static/media/4.-Amoladora Serie 61 Pro 61H120H63.f927d27e2b05ee84546f.jpg",
     "static/media/21.-Herramienta cónica 7RAQT4.jpg": "/static/media/21.-Herramienta cónica 7RAQT4.c1b42d339dac4817c22b.jpg",
     "static/media/40.-Taladro tipo pistola 1P38ST4 Serie 1.jpg": "/static/media/40.-Taladro tipo pistola 1P38ST4 Serie 1.4093e0a7c5106dc799ed.jpg",
@@ -252,12 +253,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.da7d63e1.css.map": "/static/css/main.da7d63e1.css.map",
-    "main.487e20ac.js.map": "/static/js/main.487e20ac.js.map",
+    "main.9c73424e.css.map": "/static/css/main.9c73424e.css.map",
+    "main.2e3e774e.js.map": "/static/js/main.2e3e774e.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.da7d63e1.css",
-    "static/js/main.487e20ac.js"
+    "static/css/main.9c73424e.css",
+    "static/js/main.2e3e774e.js"
   ]
 }
