@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.07244226.css",
+    "main.css": "/static/css/main.747f0caa.css",
     "main.js": "/static/js/main.736d269f.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
-    "static/media/img_home_middle.PNG": "/static/media/img_home_middle.9e1dc35648e3d847cc3d.PNG",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
     "static/media/atencion-personalizada-min.png": "/static/media/atencion-personalizada-min.402ebebacc12710ba6d3.png",
     "static/media/personal-capacitado-min.png": "/static/media/personal-capacitado-min.d0a72084576fcf122feb.png",
@@ -255,12 +254,12 @@
     "index.html": "/index.html",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.07244226.css.map": "/static/css/main.07244226.css.map",
+    "main.747f0caa.css.map": "/static/css/main.747f0caa.css.map",
     "main.736d269f.js.map": "/static/js/main.736d269f.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07244226.css",
+    "static/css/main.747f0caa.css",
     "static/js/main.736d269f.js"
   ]
 }
