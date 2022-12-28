@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a7021bd.css",
-    "main.js": "/static/js/main.bbe57b00.js",
+    "main.css": "/static/css/main.07244226.css",
+    "main.js": "/static/js/main.736d269f.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
-    "static/media/atencion-personalizada.png": "/static/media/atencion-personalizada.f421035450a2037cb013.png",
     "static/media/img_home_middle.PNG": "/static/media/img_home_middle.9e1dc35648e3d847cc3d.PNG",
-    "static/media/personal-capacitado.png": "/static/media/personal-capacitado.827eaa7113332466e686.png",
     "static/media/POCA-9.jpg": "/static/media/POCA-9.596e473a496ff7710c94.jpg",
+    "static/media/atencion-personalizada-min.png": "/static/media/atencion-personalizada-min.402ebebacc12710ba6d3.png",
+    "static/media/personal-capacitado-min.png": "/static/media/personal-capacitado-min.d0a72084576fcf122feb.png",
     "static/media/pexels-ivan-129544.jpg": "/static/media/pexels-ivan-129544.fb42862fe7c3d08c9971.jpg",
+    "static/media/img_home_middle-min.PNG": "/static/media/img_home_middle-min.cd69f275faee6ed58934.PNG",
     "static/media/pexels-pixabay-256310.jpg": "/static/media/pexels-pixabay-256310.db73e6434996bafe40c7.jpg",
     "static/media/57295.jpg": "/static/media/57295.a427affa1f9c32ed04c0.jpg",
     "static/media/pexels-kateryna-babaieva-2760241.jpg": "/static/media/pexels-kateryna-babaieva-2760241.fafd439ea2e97e234ee3.jpg",
@@ -124,6 +125,7 @@
     "static/media/3.-Agitador neumatico 651103.jpg": "/static/media/3.-Agitador neumatico 651103.5301b04943b354d7c9d2.jpg",
     "static/media/4.-Extension Ex-250-4.jpg": "/static/media/4.-Extension Ex-250-4.c6acfa43e99e9a7c65c0.jpg",
     "static/media/16.-Llave de trinquete de 14” R1120.jpg": "/static/media/16.-Llave de trinquete de 14” R1120.70941c1ebaee88d6603d.jpg",
+    "static/media/POCA-9-min.jpg": "/static/media/POCA-9-min.4437a81bcc04a33a5cc5.jpg",
     "static/media/1.-Dado Apex M1P08.jpg": "/static/media/1.-Dado Apex M1P08.38e54af4d361495c8595.jpg",
     "static/media/6.-Dado torx Apex TX-1408.jpg": "/static/media/6.-Dado torx Apex TX-1408.fc3067d596cafad9dc1b.jpg",
     "static/media/4.-Brazo mecanico QTA150.jpg": "/static/media/4.-Brazo mecanico QTA150.91c3e291ca6b7f59c157.jpg",
@@ -253,12 +255,12 @@
     "index.html": "/index.html",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.9a7021bd.css.map": "/static/css/main.9a7021bd.css.map",
-    "main.bbe57b00.js.map": "/static/js/main.bbe57b00.js.map",
+    "main.07244226.css.map": "/static/css/main.07244226.css.map",
+    "main.736d269f.js.map": "/static/js/main.736d269f.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a7021bd.css",
-    "static/js/main.bbe57b00.js"
+    "static/css/main.07244226.css",
+    "static/js/main.736d269f.js"
   ]
 }
