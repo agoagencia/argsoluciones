@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b72943c.css",
-    "main.js": "/static/js/main.33980fdc.js",
+    "main.css": "/static/css/main.731861fd.css",
+    "main.js": "/static/js/main.0583f84d.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/atencion-personalizada-min.png": "/static/media/atencion-personalizada-min.402ebebacc12710ba6d3.png",
@@ -12,8 +12,11 @@
     "static/media/57295.jpg": "/static/media/57295.a427affa1f9c32ed04c0.jpg",
     "static/media/pexels-kateryna-babaieva-2760241.jpg": "/static/media/pexels-kateryna-babaieva-2760241.fafd439ea2e97e234ee3.jpg",
     "static/media/1.-Amoladora angular 301B32MK Ingersoll Rand.jpg": "/static/media/1.-Amoladora angular 301B32MK Ingersoll Rand.1b995a224d0be259cb40.jpg",
+    "static/media/3.-Dosificador ProMix 3KS.jpg": "/static/media/3.-Dosificador ProMix 3KS.3e4a1ee805bc2e9faf74.jpg",
     "static/media/23.-Sierra circular inalambrica XSS02Z.jpg": "/static/media/23.-Sierra circular inalambrica XSS02Z.a78e066c44114f691c17.jpg",
+    "static/media/4.-Dosificadores ProMix PD2K.jpg": "/static/media/4.-Dosificadores ProMix PD2K.9af572eea2c5466c40ff.jpg",
     "static/media/2.-Dosificador de desplazamiento positivo Promix PD.jpg": "/static/media/2.-Dosificador de desplazamiento positivo Promix PD.41586f312b60d2a45b72.jpg",
+    "static/media/5.-IntelliFlow RM2 Electronic.jpg": "/static/media/5.-IntelliFlow RM2 Electronic.c46f9df20ec67ed97b32.jpg",
     "static/media/14.-DeVilbiss FLG-5 Pistola.jpg": "/static/media/14.-DeVilbiss FLG-5 Pistola.912a349779d0e7b5027b.jpg",
     "static/media/25.-Taladro inalambrico de alta torsion de 1 2V de 38” D1130.jpg": "/static/media/25.-Taladro inalambrico de alta torsion de 1 2V de 38” D1130.aac4a7ca45d6ed8fcabf.jpg",
     "static/media/10.-Filtro regulador lubricador C38341-600.jpg": "/static/media/10.-Filtro regulador lubricador C38341-600.cb024b091077b0eac5cc.jpg",
@@ -23,6 +26,7 @@
     "static/media/3.-Bomba de diafragma DX70.jpg": "/static/media/3.-Bomba de diafragma DX70.d11f4df0a7f0c6ecf5eb.jpg",
     "static/media/6.-Bombas de embolo Glutton.jpg": "/static/media/6.-Bombas de embolo Glutton.f79fd19d4ebe29b3e671.jpg",
     "static/media/1.-BGK Autocure Infrarrojo Curado.jpg": "/static/media/1.-BGK Autocure Infrarrojo Curado.20c5a6dae8562f189bca.jpg",
+    "static/media/2.-Dosificador ProMix 2KS Manual.jpg": "/static/media/2.-Dosificador ProMix 2KS Manual.5fd740ebf682e38a2460.jpg",
     "static/media/8.-Bombas Binks MX1231.jpg": "/static/media/8.-Bombas Binks MX1231.66de5352ae59184b0c84.jpg",
     "static/media/8.-Fusible Clase J serie JLS.jpg": "/static/media/8.-Fusible Clase J serie JLS.d50e910338bf3ae4c4b6.jpg",
     "static/media/9.-Fusible miniatura  Clase G serie SLC.jpg": "/static/media/9.-Fusible miniatura  Clase G serie SLC.cacf88cb6bc2ff622dc2.jpg",
@@ -42,6 +46,7 @@
     "static/media/pexels-yury-kim-585418.jpg": "/static/media/pexels-yury-kim-585418.9694ef752f7c79d12bed.jpg",
     "static/media/6.-Polipasto neumatico ML250K-2C10-B6U.jpg": "/static/media/6.-Polipasto neumatico ML250K-2C10-B6U.646dab23f6d7ec886e43.jpg",
     "static/media/26.-Pistola rociadora DV1 (CLEARCOAT, BASECOAT) Devilbiss.jpg": "/static/media/26.-Pistola rociadora DV1 (CLEARCOAT, BASECOAT) Devilbiss.19c337ff0489e3890240.jpg",
+    "static/media/6.-Ransburg IntelliFlow RF2.jpg": "/static/media/6.-Ransburg IntelliFlow RF2.592dcb053e5b5974565a.jpg",
     "static/media/24.-Taladro atornillador inalambrico DDF459Z.jpg": "/static/media/24.-Taladro atornillador inalambrico DDF459Z.be52c5988ef11aadfcf7.jpg",
     "static/media/10.-Cortadora de varilla de acero inalambrico DSC191Z.jpg": "/static/media/10.-Cortadora de varilla de acero inalambrico DSC191Z.844c752f67641d177cb9.jpg",
     "static/media/5.-Atornillador inalambrico DDF483RAE.jpg": "/static/media/5.-Atornillador inalambrico DDF483RAE.52a378bea83f00375dab.jpg",
@@ -128,6 +133,7 @@
     "static/media/3.-Ransburg RMA-580-590.jpg": "/static/media/3.-Ransburg RMA-580-590.892d6fdb8f7a583f131e.jpg",
     "static/media/29.-Bomba de diafragma Graco DF3311.jpg": "/static/media/29.-Bomba de diafragma Graco DF3311.19f426c96c159216bfc9.jpg",
     "static/media/7.-Pistola de impacto 1-2 2235TiMAX-2.jpg": "/static/media/7.-Pistola de impacto 1-2 2235TiMAX-2.067ab7100e852d954b4e.jpg",
+    "static/media/1.-Dosificador de componentes plurales ProMix 2KE.jpg": "/static/media/1.-Dosificador de componentes plurales ProMix 2KE.ce8ff5969ac844663f9f.jpg",
     "static/media/3.-Fusible miniatura Clase Midget serie BLF.jpg": "/static/media/3.-Fusible miniatura Clase Midget serie BLF.ec52f244c6173b565ec5.jpg",
     "static/media/11.-Fusible Clase CC serie CCMR.jpg": "/static/media/11.-Fusible Clase CC serie CCMR.4a5d63dc38839f64d756.jpg",
     "static/media/1.-Fusible miniatura suplementario Clase Midget serie KLK.jpg": "/static/media/1.-Fusible miniatura suplementario Clase Midget serie KLK.5b9aae89d38851277658.jpg",
@@ -317,12 +323,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.2b72943c.css.map": "/static/css/main.2b72943c.css.map",
-    "main.33980fdc.js.map": "/static/js/main.33980fdc.js.map",
+    "main.731861fd.css.map": "/static/css/main.731861fd.css.map",
+    "main.0583f84d.js.map": "/static/js/main.0583f84d.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b72943c.css",
-    "static/js/main.33980fdc.js"
+    "static/css/main.731861fd.css",
+    "static/js/main.0583f84d.js"
   ]
 }
