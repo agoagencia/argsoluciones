@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2916195d.css",
-    "main.js": "/static/js/main.c2bb33c2.js",
+    "main.css": "/static/css/main.d2ada24f.css",
+    "main.js": "/static/js/main.ac9c63ee.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/Rieles Ergonomicos.png": "/static/media/Rieles Ergonomicos.665259fa47bd39840f47.png",
@@ -367,7 +367,6 @@
     "static/media/8.-Calafateadora inalambrico DCG180RME.jpg": "/static/media/8.-Calafateadora inalambrico DCG180RME.c6b003c269a5fa051a81.jpg",
     "static/media/4.-Resistencia tipo Mica.jpg": "/static/media/4.-Resistencia tipo Mica.6257fa56851c18021f06.jpg",
     "static/media/1.-Pistola de pulverizacion electrostatica Pro Xp.jpg": "/static/media/1.-Pistola de pulverizacion electrostatica Pro Xp.6b0f1f95289ca96f7000.jpg",
-    "static/media/16.-Pistola de pulverizacion electrostatica Pro Xp.jpg": "/static/media/16.-Pistola de pulverizacion electrostatica Pro Xp.6b0f1f95289ca96f7000.jpg",
     "static/media/9.-Destornillador electrico de baja torsion en linea VersaTec EL0410B.jpg": "/static/media/9.-Destornillador electrico de baja torsion en linea VersaTec EL0410B.53f666b66a9a4045a4b2.jpg",
     "static/media/5.-Dado magnetico Apex MX-1108.jpg": "/static/media/5.-Dado magnetico Apex MX-1108.c1b0323dec1f3a7938c6.jpg",
     "static/media/17.-Llave de trinquete de 3-8” R3130.jpg": "/static/media/17.-Llave de trinquete de 3-8” R3130.9000d44a5a05907b78f7.jpg",
@@ -411,7 +410,6 @@
     "static/media/7.-Clilindro neumatico 0176-1019-020.jpg": "/static/media/7.-Clilindro neumatico 0176-1019-020.4f75cc4b5b3403034e45.jpg",
     "static/media/6.-Cilindro Provenair ANAQK-DGXA4-030.jpg": "/static/media/6.-Cilindro Provenair ANAQK-DGXA4-030.262e5a9ccb79ee6dc408.jpg",
     "static/media/21.-Punta Torx Apex 440-tx-15x.jpg": "/static/media/21.-Punta Torx Apex 440-tx-15x.e73766160e5af284a72d.jpg",
-    "static/media/17.-Pistola electrostatica Pro Xp Automatica.jpg": "/static/media/17.-Pistola electrostatica Pro Xp Automatica.49dbb8f4e4ac9b27503e.jpg",
     "static/media/2.-Pistola electrostatica Pro Xp Automatica.jpg": "/static/media/2.-Pistola electrostatica Pro Xp Automatica.49dbb8f4e4ac9b27503e.jpg",
     "static/media/ARG-LOGOx.png": "/static/media/ARG-LOGOx.3205061b3700a5a3c394.png",
     "static/media/4.-Bomba de alta presion MX432 Binks.jpg": "/static/media/4.-Bomba de alta presion MX432 Binks.02ee502fc7e1977d12d0.jpg",
@@ -526,9 +524,7 @@
     "static/media/1.-Sistema de fusion de volumen Therm-O-Flow 20.jpg": "/static/media/1.-Sistema de fusion de volumen Therm-O-Flow 20.9c232414cbedee2c8c8f.jpg",
     "static/media/2.-Sistema de fusion de volumen Therm-O-Flow 200.jpg": "/static/media/2.-Sistema de fusion de volumen Therm-O-Flow 200.bb588821188ad78cedf6.jpg",
     "static/media/jga-510.jpg": "/static/media/jga-510.8fb419cb59dd6d247d22.jpg",
-    "static/media/1.-Sistema de medicion y dispensacion de flujo continuo de precision PCF.jpg": "/static/media/1.-Sistema de medicion y dispensacion de flujo continuo de precision PCF.dfc908115df298395f8f.jpg",
     "static/media/7.-Amoladora verticale 99V60P107.jpg": "/static/media/7.-Amoladora verticale 99V60P107.d3969a192fa958b87dbd.jpg",
-    "static/media/2.-Sistema simple de dosificacion E-Flo iQ.jpg": "/static/media/2.-Sistema simple de dosificacion E-Flo iQ.295d7974a88299b3ab05.jpg",
     "static/media/2.-Lijadora angular extendida M2L025RS10.jpg": "/static/media/2.-Lijadora angular extendida M2L025RS10.c42350d24c3eb140059e.jpg",
     "static/media/1.-Bombas electricas y sistemas de suministro E-Flo SP.jpg": "/static/media/1.-Bombas electricas y sistemas de suministro E-Flo SP.d4ff21fa8cf302fe01f7.jpg",
     "static/media/2.-Sistemas de suministro de fusion en templado Warm Melt.jpg": "/static/media/2.-Sistemas de suministro de fusion en templado Warm Melt.293d90a440373861b952.jpg",
@@ -609,12 +605,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.2916195d.css.map": "/static/css/main.2916195d.css.map",
-    "main.c2bb33c2.js.map": "/static/js/main.c2bb33c2.js.map",
+    "main.d2ada24f.css.map": "/static/css/main.d2ada24f.css.map",
+    "main.ac9c63ee.js.map": "/static/js/main.ac9c63ee.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2916195d.css",
-    "static/js/main.c2bb33c2.js"
+    "static/css/main.d2ada24f.css",
+    "static/js/main.ac9c63ee.js"
   ]
 }
