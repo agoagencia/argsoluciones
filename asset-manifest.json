@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d2ada24f.css",
-    "main.js": "/static/js/main.f0655725.js",
+    "main.css": "/static/css/main.125e7a7e.css",
+    "main.js": "/static/js/main.8cc7fe95.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/Rieles Ergonomicos.png": "/static/media/Rieles Ergonomicos.665259fa47bd39840f47.png",
@@ -159,7 +159,6 @@
     "static/media/116.-Cincel de punta SDS max de 16, Truper.jpg": "/static/media/116.-Cincel de punta SDS max de 16, Truper.1cf48903aff58123377c.jpg",
     "static/media/1.-Amoladora angular 301B32MK Ingersoll Rand.jpg": "/static/media/1.-Amoladora angular 301B32MK Ingersoll Rand.1b995a224d0be259cb40.jpg",
     "static/media/ARTICULADO.png": "/static/media/ARTICULADO.eccab8d92c9f9138e21c.png",
-    "static/media/herramientas a_Mesa de trabajo 1 copia 19.png": "/static/media/herramientas a_Mesa de trabajo 1 copia 19.eccab8d92c9f9138e21c.png",
     "static/media/117.-Cincel de punta zanco hexagonal de 20, Truper.jpg": "/static/media/117.-Cincel de punta zanco hexagonal de 20, Truper.7d373b7f821c00e01954.jpg",
     "static/media/118.-Cincel de punta SDS Plus de 10, Truper.jpg": "/static/media/118.-Cincel de punta SDS Plus de 10, Truper.1e4ae96e19b3fa68e084.jpg",
     "static/media/3.-Dosificador ProMix 3KS.jpg": "/static/media/3.-Dosificador ProMix 3KS.3e4a1ee805bc2e9faf74.jpg",
@@ -183,7 +182,6 @@
     "static/media/4.-Dosificadores ProMix PD2K.jpg": "/static/media/4.-Dosificadores ProMix PD2K.9af572eea2c5466c40ff.jpg",
     "static/media/1.-Paquetes de bomba de piston Merkur.jpg": "/static/media/1.-Paquetes de bomba de piston Merkur.d51d788e50bda0272bbe.jpg",
     "static/media/GRUAS PUENTE.png": "/static/media/GRUAS PUENTE.1078e9c269ca5602107c.png",
-    "static/media/QXBD_Mesa de trabajo 1 copia 16.png": "/static/media/QXBD_Mesa de trabajo 1 copia 16.d9e81d813c71dcd1b73f.png",
     "static/media/2.-Dosificador de desplazamiento positivo Promix PD.jpg": "/static/media/2.-Dosificador de desplazamiento positivo Promix PD.41586f312b60d2a45b72.jpg",
     "static/media/ES100T.png": "/static/media/ES100T.9b7bc1760716666d576e.png",
     "static/media/20.-Bomba de diafragma Graco D55A11.jpg": "/static/media/20.-Bomba de diafragma Graco D55A11.b62e24255bd80365c293.jpg",
@@ -292,7 +290,6 @@
     "static/media/16.-Bloque de Portafusible L600M.jpg": "/static/media/16.-Bloque de Portafusible L600M.2eedb2251253aa732fed.jpg",
     "static/media/7.-Bombas de pisaton Dura-Flo.jpg": "/static/media/7.-Bombas de pisaton Dura-Flo.e1459e4bbd0d3a4d5cf5.jpg",
     "static/media/3.-Balancin mecanico BMDL-4.jpg": "/static/media/3.-Balancin mecanico BMDL-4.980360ce1a8ad642a4dd.jpg",
-    "static/media/ZERO GRAVITY 2.png": "/static/media/ZERO GRAVITY 2.eab5180d6da6346ecf15.png",
     "static/media/EL1510N2S5.png": "/static/media/EL1510N2S5.102db7bdf3a2bacfb8ba.png",
     "static/media/3.-Atornillador de impacto inalambrico DTD154RFE.jpg": "/static/media/3.-Atornillador de impacto inalambrico DTD154RFE.59c7f3023fb173b66e53.jpg",
     "static/media/28.-Spray Booth.jpg": "/static/media/28.-Spray Booth.9bcbf9b2759888139d0f.jpg",
@@ -605,12 +602,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.d2ada24f.css.map": "/static/css/main.d2ada24f.css.map",
-    "main.f0655725.js.map": "/static/js/main.f0655725.js.map",
+    "main.125e7a7e.css.map": "/static/css/main.125e7a7e.css.map",
+    "main.8cc7fe95.js.map": "/static/js/main.8cc7fe95.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2ada24f.css",
-    "static/js/main.f0655725.js"
+    "static/css/main.125e7a7e.css",
+    "static/js/main.8cc7fe95.js"
   ]
 }
