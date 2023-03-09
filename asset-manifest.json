@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.06f5772d.css",
-    "main.js": "/static/js/main.332f2b41.js",
+    "main.css": "/static/css/main.7372cc92.css",
+    "main.js": "/static/js/main.3237cd13.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/Rieles Ergonomicos.png": "/static/media/Rieles Ergonomicos.665259fa47bd39840f47.png",
@@ -494,6 +494,7 @@
     "static/media/13.-Bomba de piston sanitaria SaniForce 6-1 Graco.jpg": "/static/media/13.-Bomba de piston sanitaria SaniForce 6-1 Graco.a0fc70104f389e8a15b6.jpg",
     "static/media/10.-Destornillador electrico en linea de alta torsion VersaTec EL2603N.jpg": "/static/media/10.-Destornillador electrico en linea de alta torsion VersaTec EL2603N.0e31f58046740e376550.jpg",
     "static/media/2.-Extension ex-250-2.jpg": "/static/media/2.-Extension ex-250-2.6de24a44f76e57c94ba6.jpg",
+    "static/media/3.png": "/static/media/3.c34f45df0f7531598e0f.png",
     "static/media/26.-Punta Torx Apex 49-tx-20.jpg": "/static/media/26.-Punta Torx Apex 49-tx-20.954b655a47a80c1fc33a.jpg",
     "static/media/28.-Punta Torx Apex 49-tx-25.jpg": "/static/media/28.-Punta Torx Apex 49-tx-25.1d6faed74869ded163d3.jpg",
     "static/media/11.-Punta Apex 491x.jpg": "/static/media/11.-Punta Apex 491x.9895649bc9ba1ee8d709.jpg",
@@ -515,6 +516,7 @@
     "static/media/3.-Sistema para sellos HFR.jpg": "/static/media/3.-Sistema para sellos HFR.a6faba4dbdcb6a1102a5.jpg",
     "static/media/8.jpeg": "/static/media/8.613596637afff2a4be1a.jpeg",
     "static/media/16.jpeg": "/static/media/16.c37c57bb34d6ac9a82d4.jpeg",
+    "static/media/1.png": "/static/media/1.dc40af4357df38e453c6.png",
     "static/media/1.-Unixact C300.jpg": "/static/media/1.-Unixact C300.4c912e7b4614fafb5627.jpg",
     "static/media/2.-Unixact C500.jpg": "/static/media/2.-Unixact C500.10a3f98c3199e639cfe7.jpg",
     "static/media/1.-Dosificador PR70.jpg": "/static/media/1.-Dosificador PR70.2dc1f41197cb8e35b755.jpg",
@@ -602,12 +604,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.06f5772d.css.map": "/static/css/main.06f5772d.css.map",
-    "main.332f2b41.js.map": "/static/js/main.332f2b41.js.map",
+    "main.7372cc92.css.map": "/static/css/main.7372cc92.css.map",
+    "main.3237cd13.js.map": "/static/js/main.3237cd13.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06f5772d.css",
-    "static/js/main.332f2b41.js"
+    "static/css/main.7372cc92.css",
+    "static/js/main.3237cd13.js"
   ]
 }
