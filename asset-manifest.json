@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.91c3e754.css",
+    "main.css": "/static/css/main.efa27f75.css",
     "main.js": "/static/js/main.59800b25.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
@@ -264,6 +264,7 @@
     "static/media/12.-Lijadora orbital inalambrico XOB01.jpg": "/static/media/12.-Lijadora orbital inalambrico XOB01.b34938cbdabf0f0cae5d.jpg",
     "static/media/14.-Llave de impacto inalambrico WT01.jpg": "/static/media/14.-Llave de impacto inalambrico WT01.9f1b61e81abe9e695eca.jpg",
     "static/media/5.-Bomba de diafragma Aro 666100-344-C.jpg": "/static/media/5.-Bomba de diafragma Aro 666100-344-C.c6a74f6a5a2e3e478e3e.jpg",
+    "static/media/silver4.jpg": "/static/media/silver4.698301376afb3ede114f.jpg",
     "static/media/17.-Valvula de aguja Aro 104104-NS2.jpg": "/static/media/17.-Valvula de aguja Aro 104104-NS2.3a6af5ad26c80e32f257.jpg",
     "static/media/17.-Pistola Airless automática AG364.jpg": "/static/media/17.-Pistola Airless automática AG364.54bb95bd6ca254126f0c.jpg",
     "static/media/11.-Frie -Ball Paquete de dispensador 222069.jpg": "/static/media/11.-Frie -Ball Paquete de dispensador 222069.bccde94a673be25524db.jpg",
@@ -594,7 +595,6 @@
     "static/media/13.jpeg": "/static/media/13.20dbaab1aa7e53cdd584.jpeg",
     "static/media/reparaciones.png": "/static/media/reparaciones.a10a27c580f32d49712f.png",
     "static/media/9.jpeg": "/static/media/9.8dcfa5b9dc087651729e.jpeg",
-    "static/media/fondo metal2.jpg": "/static/media/fondo metal2.78106f92fcb44925dfb0.jpg",
     "static/media/ingenieria1.png": "/static/media/ingenieria1.8f833823ce5e01e58ee3.png",
     "static/media/14.jpeg": "/static/media/14.7421bd85e9ac8a463fbe.jpeg",
     "static/media/ARG-blanco.png": "/static/media/ARG-blanco.807dbb72d5483154fa43.png",
@@ -605,12 +605,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.91c3e754.css.map": "/static/css/main.91c3e754.css.map",
+    "main.efa27f75.css.map": "/static/css/main.efa27f75.css.map",
     "main.59800b25.js.map": "/static/js/main.59800b25.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91c3e754.css",
+    "static/css/main.efa27f75.css",
     "static/js/main.59800b25.js"
   ]
 }
