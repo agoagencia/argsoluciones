@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.75b03aa6.css",
+    "main.css": "/static/css/main.95ef661a.css",
     "main.js": "/static/js/main.59800b25.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
+    "static/media/fondo metal.jpg": "/static/media/fondo metal.2f58444417818407b50d.jpg",
     "static/media/Rieles Ergonomicos.png": "/static/media/Rieles Ergonomicos.665259fa47bd39840f47.png",
     "static/media/20.-Dado de 14 mm, 6 puntas, cuadro 14, Truper.jpg": "/static/media/20.-Dado de 14 mm, 6 puntas, cuadro 14, Truper.eb7deb57a27844d3e6d1.jpg",
     "static/media/139.-Dado punta torx T-55, cuadro 3-8, Truper.jpg": "/static/media/139.-Dado punta torx T-55, cuadro 3-8, Truper.daba7cd87ccdb1278702.jpg",
@@ -494,7 +495,6 @@
     "static/media/13.-Bomba de piston sanitaria SaniForce 6-1 Graco.jpg": "/static/media/13.-Bomba de piston sanitaria SaniForce 6-1 Graco.a0fc70104f389e8a15b6.jpg",
     "static/media/10.-Destornillador electrico en linea de alta torsion VersaTec EL2603N.jpg": "/static/media/10.-Destornillador electrico en linea de alta torsion VersaTec EL2603N.0e31f58046740e376550.jpg",
     "static/media/2.-Extension ex-250-2.jpg": "/static/media/2.-Extension ex-250-2.6de24a44f76e57c94ba6.jpg",
-    "static/media/3.png": "/static/media/3.c34f45df0f7531598e0f.png",
     "static/media/26.-Punta Torx Apex 49-tx-20.jpg": "/static/media/26.-Punta Torx Apex 49-tx-20.954b655a47a80c1fc33a.jpg",
     "static/media/28.-Punta Torx Apex 49-tx-25.jpg": "/static/media/28.-Punta Torx Apex 49-tx-25.1d6faed74869ded163d3.jpg",
     "static/media/11.-Punta Apex 491x.jpg": "/static/media/11.-Punta Apex 491x.9895649bc9ba1ee8d709.jpg",
@@ -594,6 +594,7 @@
     "static/media/13.jpeg": "/static/media/13.20dbaab1aa7e53cdd584.jpeg",
     "static/media/reparaciones.png": "/static/media/reparaciones.a10a27c580f32d49712f.png",
     "static/media/9.jpeg": "/static/media/9.8dcfa5b9dc087651729e.jpeg",
+    "static/media/fondo metal2.jpg": "/static/media/fondo metal2.78106f92fcb44925dfb0.jpg",
     "static/media/ingenieria1.png": "/static/media/ingenieria1.8f833823ce5e01e58ee3.png",
     "static/media/14.jpeg": "/static/media/14.7421bd85e9ac8a463fbe.jpeg",
     "static/media/ARG-blanco.png": "/static/media/ARG-blanco.807dbb72d5483154fa43.png",
@@ -604,12 +605,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.75b03aa6.css.map": "/static/css/main.75b03aa6.css.map",
+    "main.95ef661a.css.map": "/static/css/main.95ef661a.css.map",
     "main.59800b25.js.map": "/static/js/main.59800b25.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.75b03aa6.css",
+    "static/css/main.95ef661a.css",
     "static/js/main.59800b25.js"
   ]
 }
