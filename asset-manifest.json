@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0bdbb6c6.css",
-    "main.js": "/static/js/main.c6e6c7d6.js",
+    "main.css": "/static/css/main.75b03aa6.css",
+    "main.js": "/static/js/main.59800b25.js",
     "static/js/787.c488542e.chunk.js": "/static/js/787.c488542e.chunk.js",
     "static/media/ARGaltacalidad.mp4": "/static/media/ARGaltacalidad.bae315fa09ff0a561cdb.mp4",
     "static/media/Rieles Ergonomicos.png": "/static/media/Rieles Ergonomicos.665259fa47bd39840f47.png",
@@ -604,12 +604,12 @@
     "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "main.0bdbb6c6.css.map": "/static/css/main.0bdbb6c6.css.map",
-    "main.c6e6c7d6.js.map": "/static/js/main.c6e6c7d6.js.map",
+    "main.75b03aa6.css.map": "/static/css/main.75b03aa6.css.map",
+    "main.59800b25.js.map": "/static/js/main.59800b25.js.map",
     "787.c488542e.chunk.js.map": "/static/js/787.c488542e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0bdbb6c6.css",
-    "static/js/main.c6e6c7d6.js"
+    "static/css/main.75b03aa6.css",
+    "static/js/main.59800b25.js"
   ]
 }
