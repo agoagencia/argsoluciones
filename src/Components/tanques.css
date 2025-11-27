@@ -1,0 +1,40 @@
+.tanques img{
+    width: 205px;
+    transition: all .7s;
+    border-radius: 5px;
+    margin:20px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.tanques img:hover{
+   transform: scale(1.5);
+   transition: all .7s;
+}
+
+
+.tanques{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    
+
+}
+
+.tanques a{
+text-decoration: none;
+
+}
+
+@media(max-width:768px){
+    .tanques img{
+        width: 122px;
+        margin:0;
+        margin-bottom: 10px;
+        margin-top: 90px;
+        
+     }
+}

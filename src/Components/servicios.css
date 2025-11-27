@@ -1,0 +1,188 @@
+
+.servicios_home{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.5m;
+    font-size: .9em;  
+    
+    margin-bottom: -100px;
+   
+}
+.servicios_servicios{
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2.5m;
+    font-size: .9em;  
+    padding-top: 50px;
+    margin-bottom: -100px;
+}
+.serv_img{
+    text-align: center;
+    margin-top: -20px;
+    
+    
+}
+.servicios_img{
+    
+    padding: 30px;
+    margin-top: -270px;
+   /*  background-color: rgb(238, 238, 238); */
+    border-radius: 10px;
+}
+
+.servicios_contenedor_fondo{
+    color: #131f47;
+    background-color: #131f47;
+    border-radius: 5px;
+}
+
+.servicios_header_img{
+    height: 500px;
+    background: url(../img/nuevas/pexels-kateryna-babaieva-2760241.jpg)center center/cover;
+    margin-bottom: 50px;
+    position: relative;
+    
+}
+
+.servicios_header_img::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+     /* background: #031d589d; */
+     /* background-color:  rgba(0, 4, 83, 0.658); */
+     background-color: rgba(0, 14, 92, 0.877);
+    z-index: 1;
+}
+
+
+
+
+
+.servicios_imgs img{
+width: 250px;
+height: 250px;
+object-fit: cover;
+margin: 40px;
+border-radius: 50%;
+border: 2px solid #ddd;
+}
+.servicios_imgs img:hover{
+opacity: .7;
+    }
+
+.servicios_imgs_flex{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+    flex-wrap: wrap;
+    
+    
+    margin: auto;
+    margin-bottom: 70px;
+    font-family: 'Montserrat', sans-serif;
+   
+    
+    
+    /* background-color: #07226f; */
+    
+}
+
+.servicios_imgs_flex{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+    flex-wrap: wrap;
+ 
+    margin: auto;
+    margin-bottom: 70px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #131f47;
+    border-radius: 5px;
+    
+    
+    /* background-color: #07226f; */
+    
+}
+.servicios_flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1366px;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    margin: auto;
+   /*  background-color: #07226f; */
+   color: #002E9A;
+    
+    margin-bottom: 80px;
+    
+}
+
+.servicios_flex_1{
+    line-height: 2em;
+    width: 50%;
+
+}
+.servicios_flex_2{
+    line-height: 2em;
+    width: 50%;
+   padding-left: 20px;
+font-size: 1.1em;
+display: flex;
+justify-content: center;
+align-items: center;   
+ 
+
+}
+
+.servicios_contenedor2{
+    max-width: 1024px;
+    margin: auto;
+    line-height: 2em;
+    font-size: 20px;
+    text-align: center;
+    color: #002E9A;
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
+
+@media(max-width:768px){
+    .serv_img{
+ margin-bottom: 90px;
+    }
+
+    .servicios_flex{
+     flex-direction: column;
+     
+    }
+   .servicios_flex_1{
+       width: 100%;
+   }
+   .servicios_flex_2{
+       width: 100%;
+       
+   }
+   .servicios_header_img {
+
+    height: 300px;
+
+
+}
+.servicios_home{
+    margin-top: 150px;
+}
+.servicios_flex{
+    margin-top: 100px;
+}
+}
+
+@media(min-width:768px){
+.servicios_home{
+       margin-top: 100px;
+   
+}
+.servicios_flex{
+    margin-top: 150px;
+}
+}

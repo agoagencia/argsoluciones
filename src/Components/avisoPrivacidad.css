@@ -1,0 +1,23 @@
+.aviso_privacidad{
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 130px;
+    padding: 30px;
+    text-align: justify;
+
+}
+.aviso_privacidad h2{
+    text-align: center;
+    line-height: 1.7em;
+    font-size: 1.5em;
+}
+
+@media(max-width:768px){
+    .aviso_privacidad h2{
+    font-size: 1.1em;
+    
+     }
+     .aviso_privacidad{
+        margin-top: 80px;
+     }
+}

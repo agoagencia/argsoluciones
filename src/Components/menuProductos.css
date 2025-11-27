@@ -1,12 +1,43 @@
 
 .menu_productos_background{
-    background: url(../img/slide/57295.jpg) center center/cover;
-    height: 450px;    
+    background: url(../img/NuevasSlider/pexels-pixabay-256310.jpg) center center/cover;
+    height: 400px; 
+       
 }
+.menu_productos_background::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 400px;
+     /* background: #031d589d; */
+     /* background-color:  rgba(0, 4, 83, 0.658); */
+     background-color: rgba(0, 14, 92, 0.877);
+    z-index: 1;
+}
+
+.productos_title{
+    position: relative;
+    z-index: 1;
+    color: white;
+    text-align: center;
+    width: 100%;
+    top: 50%;
+    
+    
+}
+.productos_title h2{
+    font-size: 2.3em;
+}
+
+
+
+
 
 .menu_productos_1{
  box-shadow: 2px 2px 5px #999;
- background-color: rgba(0,0,0,0.4);
+ background-color: #131f47  ;
  height: 60px;
  display: flex;
  justify-content: center;
@@ -14,7 +45,19 @@
  font-size: 1.2em;
  width: 100%;
  padding: 0;
+ /* 
+Azul claro: #002E9A ;
+Azul intermedio:  #07226f 
+Azul Marino: #131f47
+background: #002e9a63; //TRANSPARENCIA
+*/
  
+}
+
+.menu_productos{
+   background-color:  #131f47;
+
+   
 }
 
 .menu_productos_1 a{
@@ -24,24 +67,38 @@
     
 }
 .menu_productos_2{
-    margin-top: 30px;
-    background-color: rgba(0,0,0,0.3);
+
+    background-color: #131f47  ;
     box-shadow: 2px 2px 5px #999;
-   }
+    line-height: 2em;
+    color: #ddd;
+    /* box-shadow: 2px 2px 5px rgb(49 48 99); */
+    max-width: 1366px;
+    margin: auto;
+}
 
 .menu_productos li{
     list-style: none;
     
+    text-decoration: none;
+}
+.menu_productos_2 li a{
+    list-style: none;
+    
+    text-decoration: none;
 }
 
+
+
+/* 
 .menu_manejo_fluidos{
     display: flex;
     justify-content:flex-start;
     align-items: flex-start;
     text-align: start;
-}
+} */
 
-.menu_manejo_fluidos_1{
+/* .menu_manejo_fluidos_1{
   
     background-color: rgba(0,0,0,0.1);
     width: 30%;
@@ -59,19 +116,19 @@
     justify-content: flex-start;
     align-items: flex-start;
     line-height: 3.5em;
-}
+} */
 
 
-
+/* 
 .bombas_diafragma img{
    width: 150px;
    height: 150px;
    object-fit: cover;
    border-radius: 5px;
    margin: 20px;
-}
+} */
 
-.bombas_diafragma{
+/* .bombas_diafragma{
    display: flex;
    flex-wrap: wrap;
    justify-content: center;
@@ -93,7 +150,7 @@
     flex-wrap: wrap;
     
 
-}
+} */
 
 .menu_construccion_1 ul{
     display: flex;
@@ -120,11 +177,24 @@
     line-height: 2em;
        
  }
+ .accesorios ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 40%;
+    font-size: 1em;
+    padding: 20px;
+    margin: auto;
+    line-height: 2em;
+       
+ }
 
 
     .menu_industrial_2,
     .menu_construccion_2{
         background-color: rgba(0,0,0,0.1);
+        padding-bottom: 100px;
+        padding: 30px;
     }
     .box_construccion {
     
@@ -138,20 +208,41 @@
        
         
       }
-
+      .margin_top{
+        margin-top: -30px;
+        
+      }
+      .box_manejo_1_flex{
+        display: flex;
+        
+        
+      }
+      .box_manejo_1_flex_margin{
+        margin-right: 60px;
+     
+        
+      }
+    
+     
 
 @media(max-width:768px){
-/*     .menu_manejo_fluidos{
-        flex-direction: column;
+    .box_manejo_1_flex{
+        
+     flex-direction: column;
+        
+      }
+    
+    
+    .menu_productos_background{
+        background: url(../img/NuevasSlider/pexels-pixabay-256310.jpg) center center/cover;
+        height: 300px; 
+           
     }
-
-    .menu_manejo_fluidos_1{
-     width: 100%;
+    .menu_productos_background::before{
+        
+        height: 300px; 
+           
     }
-    .menu_manejo_fluidos_2{
-        width: 100%;
-     
-    } */
   
     
     .box_construccion {
@@ -171,4 +262,26 @@
             ;
          }  
 
+         .menu_industrial,
+         .menu_construccion{
+             font-size: .9em;
+         }
+
+}
+
+
+@media(min-width:768px){
+    .box_pintura_1{
+        display: flex;
+        
+    }
+    .box_pintura_10, .box_pintura_20, .box_pintura_30{
+        padding: 20px;
+        
+    }
+    .box_manejo_2_flex{
+        display: flex;
+    }
+    
+    
 }

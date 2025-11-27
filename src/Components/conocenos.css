@@ -1,0 +1,309 @@
+.conocenos{
+    margin-bottom: 100px;
+}
+.conocenos_img{
+    background: url(../img/NuevasSlider/pexels-ivan-129544.jpg)no-repeat center center/cover;
+    width: 100%;
+    height: 500px;
+    /* background-position-y: -500px; */
+    object-fit: cover;
+    /* background-attachment: fixed; */
+    background-position: center;
+    position: relative;
+}
+
+.mision_vision_valores{
+    background: url(../img/img_fondo/office8.jpg)no-repeat center center/cover;
+   width: 100%;
+   font-family: 'Montserrat', sans-serif;
+   margin-top: 100px;
+    
+}
+.mision_vision_valores_flex{
+    margin: auto;
+    padding: 30px;
+    line-height: 2em;
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgba(0,0,0,0.5); */
+   /*  background-color:  rgba(0, 4, 83, 0.658); */
+   /*  background-color:  rgba(1, 7, 44, 0.63); */
+    background-color: rgba(0, 14, 92, 0.877);
+    
+    border-radius: 5px;
+    color: #ddd;
+    margin-bottom: 10px;
+    z-index: 20;
+    box-shadow: 2px 2px 5px rgb(49, 48, 99);
+    font-size: 1.1em;
+    max-width: 1366px;
+
+    
+}
+/* .mision_vision_valores::before{
+    content: '';
+    position: absolute;
+    background: #002e9a63;
+    z-index:1; 
+    width: 100%;
+    height: 900px;
+    
+} */
+.conocenos_img::before {
+    content: '';
+   
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    background-color: rgba(0, 14, 92, 0.877);
+    z-index: 1;
+}
+.redes_sociales{
+    font-size: 30px;
+    cursor: pointer;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+
+}
+.conocenos_mapa{
+    background-color: #131f47;
+    
+}
+.conocenos_mapa_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1366px;
+    margin: auto;
+    
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 2em;
+    
+    color: #ddd;
+}
+.conocenos_mapa_flex img{
+  width: 100%;
+  height: 500px;
+  background-color:#ddd;
+  object-fit: cover;
+}
+.conocenos_mapa_1{
+    width: 50%;
+    padding: 20px;
+    text-align: start;
+    
+}
+.conocenos_mapa_2{
+    width: 50%;
+    padding-left: 20px;
+}
+/* .box_mision_right::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:  rgba(0, 4, 83, 0.658);
+    z-index: 1;
+} */
+/* background: #031d589d; */
+/* .box_mision_right_img{
+    z-index: 1000;
+} */
+
+
+
+
+.quienes_somos {
+    text-align: center;
+    padding: 20px;
+    line-height: 2.2em;
+    max-width: 1024px;
+    margin: auto;
+    margin-top: -50px;
+    margin-bottom: 70px;
+    font-family: 'Montserrat', sans-serif;
+    color: #002E9A;
+    font-size: 1.2em;
+    
+    
+}
+
+.box_mision{
+    /* background-color:  rgba(0, 4, 83, 0.658); */
+    border-radius: 5px;
+    color: #ddd;
+    max-width: 1366px;
+    padding: 30px;
+    margin: auto;
+    z-index: 20;
+    position: relative;
+    box-shadow: 2px 2px 5px rgb(49, 48, 99);
+    font-size: 1.1em;
+    font-family: 'Montserrat', sans-serif;
+    /* background-color:  rgba(1, 7, 44, 0.63); */
+    background-color: rgba(0, 14, 92, 0.877);
+}
+
+
+
+
+
+.box_mision_right{
+    width: 50%;
+    border-radius: 5px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+.box_mision_left{
+    width: 50%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.box_mision_right img{
+  
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+
+.box_mision p{
+    line-height: 2em;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.center{
+    text-align: center;
+}
+
+.flex_p{
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+.homeVideoCopy{
+   
+    margin-top: 80px;
+    margin-bottom: 80px;
+    
+}
+
+
+
+
+@media(max-width:768px){
+    .conocenos_img{
+height: 300px;
+
+    }
+    .conocenos_img::before {
+  height: 300px;
+    }
+
+.conocenos_mapa_flex{
+    flex-direction: column;
+    font-size: 1em;
+}
+
+.conocenos_mapa_1{
+    width: 100%;text-align: start;
+    margin-bottom: 50px;
+}
+
+.conocenos_mapa_2{
+width: 100%;
+}
+.conocenos_mapa_2{
+    padding: 0px;
+ 
+
+}
+.mision_vision_valores::before{
+    
+    height: 1200px;
+    
+}
+.homeVideoCopy{
+    margin-top: -150px;
+}
+
+
+.quienes_somos {
+    text-align: justify;
+    margin-top: -180px;
+    font-size: 1em;
+  
+    
+}
+
+  .mision_vision_valores_flex{
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 0px;
+    font-size: 1em;
+    
+        
+    }
+    .box_mision_left{
+        width: 100%;
+        
+      }
+
+
+      .box_mision_right{
+          width: 100%;
+          text-align: center;
+          
+          display: none;
+        }
+        
+        .box_mision_right_copy{
+            width: 100%;
+            text-align: center;
+        }
+        
+        
+        
+        .box_mision_right img{
+            object-fit: cover;
+              width: 170px;
+              height: 170px;
+          }
+        .box_mision_right_copy img{
+          object-fit: cover;
+            width: 170px;
+            height: 170px;
+        }
+
+        
+      .box_mision{
+          width: 100%;
+          margin: 0;
+      }
+      .box_mision{
+        flex-direction: column;
+    }
+
+}
+@media(min-width:768px){
+    .box_mision_right_copy{
+        
+        display: none;
+      }
+}

@@ -1,0 +1,31 @@
+.referenciaFusibles img{
+    width: 225px;
+  
+    transition: all .7s;
+    border-radius: 5px;
+    margin:20px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.referenciaFusibles img:hover{
+   transform: scale(1.5);
+   transition: all .7s;
+}
+
+
+.referenciaFusibles{
+    display: flex;
+   
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+
+}
+
+@media(max-width:768px){
+    .referenciaFusibles img{
+        width: 190px;
+     }
+}

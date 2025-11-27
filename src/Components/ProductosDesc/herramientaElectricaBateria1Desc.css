@@ -1,0 +1,128 @@
+.herramientaElectricaBateria1Desc,
+.herramientaElectricaBateria2Desc,
+.herramientaElectricaBateria3Desc,
+.herramientaElectricaBateria4Desc,
+.herramientaElectricaBateria5Desc,
+.herramientaElectricaBateria6Desc,
+.herramientaElectricaBateria7Desc,
+.herramientaElectricaBateria8Desc,
+.herramientaElectricaBateria9Desc,
+.herramientaElectricaBateria10Desc
+{
+    /* background: url("../img/productos/HerramientaElectrica/herramientaElectricaBateria/1._Llave_angular_inalambrica_QXN.jpg"); */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    max-width: 1366px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 100px;
+
+
+}
+
+.herramientaElectricaBateria1Desc a,
+.herramientaElectricaBateria2Desc a,
+.herramientaElectricaBateria3Desc a,
+.herramientaElectricaBateria4Desc a,
+.herramientaElectricaBateria5Desc a,
+.herramientaElectricaBateria6Desc a,
+.herramientaElectricaBateria7Desc a,
+.herramientaElectricaBateria8Desc a,
+.herramientaElectricaBateria9Desc a,
+.herramientaElectricaBateria10Desc a {
+    text-decoration: none;
+}
+
+.herramientaElectricaBateria1Desc_left,
+.herramientaElectricaBateria2Desc_left,
+.herramientaElectricaBateria3Desc_left,
+.herramientaElectricaBateria4Desc_left,
+.herramientaElectricaBateria5Desc_left,
+.herramientaElectricaBateria6Desc_left,
+.herramientaElectricaBateria7Desc_left,
+.herramientaElectricaBateria8Desc_left,
+.herramientaElectricaBateria9Desc_left,
+.herramientaElectricaBateria10Desc_left
+ {
+   width: 50%;
+}
+
+.herramientaElectricaBateria1Desc_left img,
+.herramientaElectricaBateria2Desc_left img,
+.herramientaElectricaBateria3Desc_left img,
+.herramientaElectricaBateria4Desc_left img,
+.herramientaElectricaBateria5Desc_left img,
+.herramientaElectricaBateria6Desc_left img,
+.herramientaElectricaBateria7Desc_left img,
+.herramientaElectricaBateria8Desc_left img,
+.herramientaElectricaBateria9Desc_left img,
+.herramientaElectricaBateria10Desc_left img
+{
+
+    width: 100%;
+}
+
+.herramientaElectricaBateria1Desc_right,
+.herramientaElectricaBateria2Desc_right,
+.herramientaElectricaBateria3Desc_right,
+.herramientaElectricaBateria4Desc_right,
+.herramientaElectricaBateria5Desc_right,
+.herramientaElectricaBateria6Desc_right,
+.herramientaElectricaBateria7Desc_right,
+.herramientaElectricaBateria8Desc_right,
+.herramientaElectricaBateria9Desc_right,
+.herramientaElectricaBateria10Desc_right
+{
+
+    width: 50%;
+}
+
+@media(max-width:768px) {
+    .herramientaElectricaBateria1Desc,
+    .herramientaElectricaBateria2Desc,
+.herramientaElectricaBateria3Desc,
+.herramientaElectricaBateria4Desc,
+.herramientaElectricaBateria5Desc,
+.herramientaElectricaBateria6Desc,
+.herramientaElectricaBateria7Desc,
+.herramientaElectricaBateria8Desc,
+.herramientaElectricaBateria9Desc,
+.herramientaElectricaBateria10Desc {
+        /* background: url("../img/productos/HerramientaElectrica/herramientaElectricaBateria/1._Llave_angular_inalambrica_QXN.jpg"); */
+        flex-direction: column;
+        padding: 20px;
+
+
+    }
+
+    .herramientaElectricaBateria1Desc_left,
+    .herramientaElectricaBateria2Desc_left,
+.herramientaElectricaBateria3Desc_left,
+.herramientaElectricaBateria4Desc_left,
+.herramientaElectricaBateria5Desc_left,
+.herramientaElectricaBateria6Desc_left,
+.herramientaElectricaBateria7Desc_left,
+.herramientaElectricaBateria8Desc_left,
+.herramientaElectricaBateria9Desc_left,
+.herramientaElectricaBateria10Desc_left
+    {
+
+        width: 100%;
+    }
+
+    .herramientaElectricaBateria1Desc_right,
+    .herramientaElectricaBateria2Desc_right,
+    .herramientaElectricaBateria3Desc_right,
+    .herramientaElectricaBateria4Desc_right,
+    .herramientaElectricaBateria5Desc_right,
+    .herramientaElectricaBateria6Desc_right,
+    .herramientaElectricaBateria7Desc_right,
+    .herramientaElectricaBateria8Desc_right,
+    .herramientaElectricaBateria9Desc_right,
+    .herramientaElectricaBateria10Desc_right
+     {
+
+        width: 100%;
+    }
+}

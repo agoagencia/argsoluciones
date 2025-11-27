@@ -1,0 +1,80 @@
+.herramienta_torque img{
+    width: 205px;
+    transition: all .7s;
+    border-radius: 5px;
+    margin:20px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.herramienta_torque img:hover{
+   transform: scale(1.5);
+   transition: all .7s;
+}
+
+
+.herramienta_torque{
+    
+    text-align: center;
+  
+    flex-wrap: wrap;
+
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+
+}
+
+.herramienta_torque a{
+text-decoration: none;
+
+}
+
+
+.sistema_rieles_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.brazos_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.balancines_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.manerales_control_neumatico_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.mesas_ergonomicas_levante_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.manipuladores_flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+
+
+@media(max-width:768px){
+    .herramienta_torque img{
+        width: 122px;
+        margin:10px;
+        margin-bottom: 10px;
+        margin-top: 90px;
+     }
+}

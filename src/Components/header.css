@@ -1,148 +1,711 @@
-.header{
-    width: 100%;
- }
-
-
-
 .header_flex{
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: rgba(0,0,0,0.2);
     height: 80px;
+    background-color:  #0e163181;
+}
+
+
+.transform{
+    /* background-color: rgba(51, 84, 145, 0.9); */
+    transition: all ease .7s;
+    background-color: #0e1631;  
+    height: 60px;
+    
+}
+
+
+
+.transform .logo img{
+width: 90px;
+transition: all ease .7s;
+}
+
+
+
+.span_industria_mineria{
+    color:rgba(255, 255, 255, 0.288);
+    display: none;
+    
+}
+
+
+.logo img{
+    transition: all ease .7s;
+
+}
+
+
+
+/*--------------MULTIPLE DROPDOWNS-----------*/
+
+
+
+.submenu_item {
+    color: rgb(194, 192, 192);
+    padding: 10px 20px 10px 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.164);
+    background-color: rgb(8, 6, 44);
+    cursor: pointer;
+    padding: 10px 20px 10px 20px;
+    
+}
+
+.submenu_item:hover {
+    background-color: rgb(20, 15, 108);
+
+}
+
+
+
+.productos_menu {
+    position: absolute;
+    margin-top: 28px;
+    width: 100%;
+    background-color: aqua;
+    display: none;
+}
+
+
+
+
+.productos_menu ul li {
+    width: 300px;
+   
+}
+
+.productos_menu ul {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+
+}
+
+
+.productos_industria_mineria {
+    position: absolute;
+    left: -335px;
+    text-align: end;
+    margin-top: -10px;
+    
+}
+
+.productos_industria_mineria ul {
+    display: flex;
+    flex-direction: column;
+}
+
+.productos_construccion {
+    position: absolute;
+    text-align: end;
+    left: -380px;
+    margin-top: -10px;
+}
+
+.productos_construccion ul {
+    flex-direction: column;
+}
+
+#herramienta_electrica ul {
+    position: absolute;
+    right: 350px;
+    margin-top: -34px;
+}
+
+
+.productos_herramienta_neumatica {
+    position: absolute;
+    text-align: end;
+    left: -380px;
+    margin-top: -10px;
+}
+
+.productos_herramienta_neumatica ul {
+    flex-direction: column;
+}
+
+#herramienta_neumatica ul {
+    right: 320px;
+    margin-top: -34px;
+}
+
+.productos_dados_puntas {
+    position: absolute;
+    text-align: end;
+    left: -380px;
+    margin-top: -10px;
+}
+
+.productos_dados_puntas ul {
+    flex-direction: column;
+}
+
+#dados_puntas ul {
+    right: 320px;
+    margin-top: -34px;
+}
+
+.productos_manejo_materiales {
+    position: absolute;
+    text-align: end;
+    left: -302px;
+    margin-top: -10px;
+}
+
+.productos_manejo_materiales ul {
+    flex-direction: column;
+}
+
+#manejo_materiales ul {
+    right: 320px;
+    margin-top: -34px;
+}
+#equipos_pintura ul {
+    right: 302px;
+    margin-top: -34px;
+}
+#manejo_fluidos ul {
+    right: 302px;
+    margin-top: -34px;
+}
+
+.productos_construccion {
+    display: none;
+}
+
+
+
+/* --------------------------------- */
+
+.header {
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.productos_flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.productos_flex a {
+    text-decoration: none;
+}
+
+.header_flex {
+
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
     position: fixed;
     /* box-shadow: 2px 2px 5px #999; */
     z-index: 1000;
     top: 0;
-    padding:20px ;
-    
-}
-.logo img{
-    width: 160px;
-    
-}
-
- .nav ul{
-  display: flex;   
-
-  
-}
-.nav a{
     padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+    transition: all ease .7s;
+}
+
+.logo {
+    width: 150px;
+}
+
+.logo img {
+    width: 140px;
+
+}
+
+
+.nav ul {
+    display: flex;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.logo {
+    margin-top: 10px;
+}
+
+.nav a {
+    width: 100%;
+   
+    padding: 30px;
     text-decoration: none;
-  
-   
-   
+    font-family: 'Montserrat', sans-serif;
+    
+
 }
 
-.nav li{
+.nav li {
     list-style: none;
-    
-}
-
-
-@media(max-width:768px){
-
-
-/* --------------------Menu responsive------------------ */
-.nav {
-    position: absolute;
-    top:0;
-    left:-100%;
-    width: 200px;
-    transition: all 0.4s;
-    height: 100vh;
-    background-color: rgba(0,0,0,0.4);
-    list-style: none;
-    box-shadow: 2px 2px 5px #999;
-    
-    
-  
-  }
-.mostrar {
-    left: 0;
-  }
-.opacar{
-opacity: .1;
- height: 100%;
-
- width: 100%;
-
- 
+    width: 100%;
+    text-decoration: none;
 
 }
 
-  nav ul{
-      flex-direction: column;
-      display: flex;
-      padding: 0;
-      width: 100%;
-      margin-top: 80px;
-      
-      
-    }
-    .nav ul li {
-    line-height: 3.2em;
-    border-bottom: 1px solid rgba(0,0,0,0.1);
-    
-    
-  }
-  .nav ul li:hover {
-    background-color: rgba(0,0,0,0.1);
-    
-  }
-  .logo img{
-      width: 100px;
-  }
- 
-
-}
 /* -----------------------Boton Menu Animado--------------------------------------- */
 
-.menu-bar{
-    width: 30px;
+.menu-bar {
+    width: 25px;
     cursor: pointer;
     z-index: 1;
-    
+
 }
 
-.uno, .dos, .tres{
+.uno,
+.dos,
+.tres {
     width: 100%;
     background: white;
     height: 3px;
     transition: all 0.5s;
-    
+
 }
 
-.dos{
+.dos {
     margin: 5px 0;
 }
 
 
-.btn_x .dos{
-    opacity:0;
+.btn_x .dos {
+    opacity: 0;
 
 }
 
-.btn_x .uno{
+.btn_x .uno {
     transform: rotate(45deg) translate(5px, 5px);
-  
+
 }
-.btn_x .tres{
-     transform: rotate(-45deg) translate(6px, -7px);
+
+.btn_x .tres {
+    transform: rotate(-45deg) translate(6px, -7px);
 }
+
+.productos_dados_puntas {
+    position: absolute;
+    text-align: end;
+    left: -302px;
+}
+
+
+
+#dados_puntas ul {
+    right: 320px;
+    margin-top: -50px;
+}
+
+.productos_herramienta_electrica {
+    position: absolute;
+    text-align: end;
+    left: -302px;
+}
+
+
+
+#herramienta_electrica ul {
+    right: 320px;
+    margin-top: -50px;
+}
+/* .resistencias {
+    position: absolute;
+    text-align: end;
+    left: -350px;
+} */
+
+
+
+#resistencias ul {
+    right: 302px;
+    margin-top: -34px;
+}
+#herramienta_torque ul {
+    right: 302px;
+    margin-top: -34px;
+}
+#sistemas_sello ul {
+    right: 350px;
+    margin-top: -34px;
+}
+
+
+.productos_herramienta_neumatica {
+    position: absolute;
+    text-align: end;
+    left: -302px;
+}
+
+
+
+#herramienta_neumatica ul {
+    right: 320px;
+    margin-top: -50px;
+}
+
+.productos_manejo_materiales {
+    position: absolute;
+    text-align: end;
+    left: -302px;
+}
+
+
+
+#manejo_materiales ul {
+    right: 320px;
+    margin-top: -50px;
+}
+.productos_construccion{
+    display: none;
+}
+
+.productos_sistemas_sello{
+    position: absolute;
+    text-align: end;
+    left: -302px;
+}
+.productos_manejo_fluidos_flexbox{
+    display: flex;
+}
+
+
+
+
 
 /* ------------------------------------------------------------------------ */
 
-@media(min-width:768px){
-    .menu-bar{
+
+@media(max-width:768px) {
+
+.arrow_down{
+    display: none;
+}
+.arrow_right{
+    margin-left: 10px;
+    color: rgba(255, 255, 255, 0.664);
+    
+   
+
+}
+   
+
+ .productos_industria_mineria ul{
+        width: 300px;
+        margin-top: -80px;
+        font-size: 1em;
+        
+    }
+
+
+
+
+ #sistemas_sello ul{
+    position: relative;
+ }
+ 
+ .productos_sistemas_sello{
+    padding-top: 50px;
+    left: 0;
+    
+}
+
+#manejo_fluidos ul{
+    position: relative;
+}
+.productos_manejo_fluidos{
+    padding-top: 50px;
+    left: -20px;
+    
+}
+
+
+
+#resistencias ul{
+    position: relative;
+ }
+ .resistencias{
+    padding-top: 50px;
+    left: 0;
+    
+}
+
+#equipos_pintura ul{
+    position: relative;
+ }
+ .equipos_pintura{
+    padding-top: 50px;
+    left: 0;
+    
+}
+
+
+
+
+
+
+
+
+    #herramienta_electrica ul{
+        position: relative;
+    }
+    .productos_herramienta_electrica{
+        padding-top: 50px;
+        left: 0;
+        
+    }
+    .productos_herramienta_electrica li{
+        background-color: #0d132a6f;
+        
+
+    }
+    .productos_herramienta_electrica li:hover{
+        background-color: #0c132a;
+
+    }
+    .productos_herramienta_neumatica li{
+        background-color: #0d132a6f;
+
+    }
+    .productos_herramienta_neumatica li:hover{
+        background-color: #0c132a;
+
+    }
+    .productos_dados_puntas li{
+        background-color: #0d132a6f;
+
+    }
+    .productos_dados_puntas li:hover{
+        background-color: #0c132a;
+
+    }
+    .productos_manejo_materiales li{
+        background-color: #0d132a6f;
+
+    }
+    .productos_manejo_materiales li:hover{
+        background-color: #0c132a;
+
+    }
+  
+    
+    #herramienta_neumatica ul{
+       position: relative;
+    }
+    .productos_herramienta_neumatica{
+       padding-top: 50px;
+     left: 0;
+        
+    }
+    #dados_puntas ul{
+
+     position: relative;
+    }
+    .productos_dados_puntas{
+       padding-top: 50px;
+     left: 0;
+        
+    }
+    #manejo_materiales ul{
+
+     position: relative;
+    }
+    .productos_manejo_materiales{
+       padding-top: 50px;
+     left: 0;
+    }
+ 
+
+    #productos:hover {
+        position: relative;
+    }
+    .submenu_item {
+        padding: 0px 20px 0px 20px;
+        
+    }
+        
+    .productos_menu_hide {
+        position: absolute;
+    }
+
+    .productos_menu_hide:hover {
+        position: relative;
+    }
+      
+    
+ 
+    
+    .productos_manejo_materiales ul {
+        flex-direction: column;
+    }
+    
+    #manejo_materiales ul {
+        right: 285px;
+        margin-top: -34px;
+    }
+    
+    .productos_menu {
+        position: relative;
+        margin-top: -80px;
+        width: 100%;
+        display: none;
+        transition: all ease .7s;
+    }
+    
+    .productos_industria_mineria {
+        position: absolute;
+        left: 180px;
+        margin-top: -80px;
+      
+    }
+ 
+
+ 
+.logo{
+text-align: center;
+
+
+}
+
+    
+    .header_flex {
+        height: 50px;
+        justify-content: space-between;
+        
+    }
+
+    /* --------------------Menu responsive------------------ */
+    .nav {
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 180px;
+        transition: all 0.4s;
+        font-size: .8em;
+        height: 100vh;
+        /* background-color: #012574be; */
+        background-color: rgba(1, 7, 44, 0.856);
+        list-style: none;
+        font-family: 'Montserrat', sans-serif;
+        box-shadow: 0;
+        text-align: start;
+    }
+    
+    .mostrar {
+        left: 0;
+    }
+    
+    .opacar {
+        opacity: .1;
+        height: 100%;
+        width: 100%;
+    }
+
+    nav ul {
+
+        flex-direction: column;
+        display: flex;
+        padding: 0;
+        width: 100%;
+        margin-top: 80px;
+        
+        
+    }
+    
+    .nav ul li {
+        text-align: start;
+        line-height: 3.2em;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+        width: 100%;
+
+    }
+
+    .nav ul li a {
+        width: auto;
+
+    }
+
+    /*  .nav ul li:hover {
+        background-color: rgba(0, 0, 0, 0.1);
+
+    } */
+
+    .logo img {
+        width: 90px;
+
+    }
+    #herramienta_torque ul{
+        position: relative;
+     }
+     .productos_herramienta_torque{
+        padding-top: 50px;
+        left: 0;
+        
+    }
+
+
+}
+
+
+
+@media(min-width:768px) {
+ 
+    .arrow_right{
+        display: none;
+        
+    }
+    .arrow_down{
+        opacity: .7;
+        
+    }
+
+    .flex_arrow{
+        float: right;
+        margin-top: -24px;
+        margin-right: 10px;
+        
+    }
+    #herramienta_neumatica ul {
+        right: 350px;
+        margin-top: -34px;
+    }
+
+    #dados_puntas ul {
+        right: 350px;
+        margin-top: -34px;
+    }
+
+    #manejo_materiales ul {
+        right: 350px;
+        margin-top: -34px;
+    }
+
+
+    #herramienta_electrica ul {
+        right: 350px;
+        margin-top: -34px;
+    }
+
+    .menu-bar {
         display: none;
     }
-    .nav ul{
-        
+
+    .nav ul {
+
         margin: auto;
+
+
+    }
+    .header_flex ul {
+        text-align: end;
+
+    }
+    .span_industria_mineria{
+        color:rgba(255, 255, 255, 0.288);
+        display: none;
         
-        
-      }
+    }
+    .productos_industria_mineria{
+        margin-left: 100px;
+    }
+
 }

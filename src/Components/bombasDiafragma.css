@@ -1,0 +1,39 @@
+.bombas_diafragma img{
+    width: 205px;
+    transition: all .7s;
+    border-radius: 5px;
+    margin:20px;
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+.bombas_diafragma img:hover{
+   transform: scale(1.5);
+   transition: all .7s;
+}
+
+
+.bombas_diafragma{
+    display: flex;
+    text-align: center;
+    
+    flex-wrap: wrap;
+
+    max-width: 1200px;
+    margin: auto;
+    justify-content: space-between;
+
+}
+
+.bombas_diafragma a{
+text-decoration: none;
+
+}
+
+@media(max-width:768px){
+    .bombas_diafragma img{
+        width: 122px;
+        margin:0;
+        margin-bottom: 10px;
+        margin-top: 90px;
+     }
+}

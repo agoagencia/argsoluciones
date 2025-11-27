@@ -1,0 +1,39 @@
+.pistolas_electrostaticas img{
+    width: 205px;
+    transition: all .7s;
+    border-radius: 5px;
+    margin:20px;
+    margin-bottom: 30px;
+    margin-top: 1las_electrostaticas00px;
+}
+.pistolas_electrostaticas img:hover{
+   transform: scale(1.5);
+   transition: all .7s;
+}
+
+
+.pistolas_electrostaticas{
+    display: flex;
+    text-align: center;
+
+    flex-wrap: wrap;
+
+    max-width: 12las_electrostaticas00px;
+    margin: auto;
+    justify-content: space-around;
+
+}
+
+.pistolas_electrostaticas a{
+ text-decoration: none;
+
+}
+
+@media(max-width:768px){
+    .pistolas_electrostaticas img{
+        width: 122px;
+        margin:0;
+        margin-bottom: 10px;
+        margin-top: 90px;
+     }
+}

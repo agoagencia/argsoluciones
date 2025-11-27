@@ -3,7 +3,7 @@ import React from 'react'
 function ManejoMateriales() {
     return (
         <div>
-            Manejo de Materiales
+            Manejo de Materiadddles
         </div>
     )
 }

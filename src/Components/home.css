@@ -1,210 +1,503 @@
-/* .home_content{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    height: 550px;
-    padding: 20px;
-    line-height: 2.8em;
-    color: rgba(0,0,0,0.4);
-    font-size: 1.5em;
-    line-height: 2.7em;
-    color: rgba(0,0,0,0.4);
-    transition: all 0.4s;
-    background: url(../img/silver-background-5-Best-Wallpaper.png)no-repeat center center/cover;
-    
-}
-
-.home_content h1{
-      animation: animate1 2s forwards .1s ease-in-out; 
-      opacity: 0;
-  
-  }
-  @keyframes animate1{
-        
-      from{
-      transform: translateX(100px);
-      }
-      
-      to{
-          opacity: 1;
-          transform: translateX(0px);
-          
-        }
-      }
-
-.home_content_p{
-    animation: animate2 3.5s forwards .1s ease-in-out; 
-    opacity: 0;
-   
-}
-@keyframes animate2{
-      
-    from{
-    transform: translateY(100px);
-    }
-    
-    to{
-        opacity: 1;
-        transform: translateY(0px);
-        
-      }
-    } */
-
-/* .button_home{
-    background-color: rgba(0,0,0,0.1);
-    padding: 0px 20px;
-    border-radius: 5px;
-    margin-top: 20px;
-   width: 170px;
-  
-    box-shadow: 2px 2px 5px #999; */
-    /* box-shadow:5px 5px 5px #ccc;
-    box-shadow: 0 0 0.7142857142857143rem #cccccc; */
- /*    cursor: pointer;
-    text-align: center; */
-/* }
-.button_home:hover{
-    background-color: rgba(0,0,0,0.2);
-  
-}
-
-.conocenos{
-    background-color: rgba(0,0,0,0.2);
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-}
-.conocenos_1{
-  width: 50%;
-  background-color: rgba(0,0,0,0.1);
-  border-radius: 5px;
-  padding: 20px;
-  font-size: 1.1em;
-  line-height: 2em;
-}
-.conocenos_2{
-  width: 50%;
- padding: 0px 20px 0px 20px;
-}
-
-
-@media(max-width:768px){
-   
- .conocenos{
-     flex-direction: column;
- }
- .conocenos_1{
-    width: 100%;
-    
- 
-  }
-  .conocenos_2{
-    width: 100%;
-   
-  } */
-/*     .home_content{
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: flex-start;
-        height: 400px;
-        padding: 20px;
-        padding-top: 50px;
-        font-size: 1.1em;
-        line-height: 2.7em;
-        color: rgba(0,0,0,0.4);
-        transition: all 0.4s;
-    
-    }
-    .home_content h1{
-        font-size: 1.7em;
-    
-    } */
-/* } */
-
-
-
 /* -----------------------Slideshow------------------------------*/
-
-
-.logo_carousel{
-    
+.logo_carousel {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 500px;
+    height: 400px;
+    z-index: 10;
+    position: relative;
+
+}
+.logo_carousel img {
+    width: 250px;
+}
+
+
+.img_home_midle {
+    background: url(../img/img_home/img_home_middle-min.PNG)no-repeat center center/cover;
+    max-width: 1366px;
+    height: 450px;
+    margin: auto;
+    background-attachment: fixed;
+    /* background-position-y: -500px; */
+    margin-bottom: 20px;
+    margin-top: 50px;
+    
+
+}
+
+.whatsapp_contact {
+    position: fixed;
+    right: 20px;
+    bottom:20px;
+    width: 50px;
+    z-index: 10;
     
 }
-.logo_carousel img{
-    width: 300px;
+
+.whatsapp_contact img {
+    width: 50px;
 }
-.servicios_titulo{
-    text-align: center;
-    margin-top: 60px;
+
+.servicios_content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    margin: auto;
+    color: #002E9A;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(0, 0, 0, 0.1);
+   
+    
+    
 }
-.img_home_midle{
-    background: url(../img/slide/57295.jpg)no-repeat center center/cover;
-    height: 300px;
+.servicios_fondo{
+    background: url(../img/marcos/1100/1.png) no-repeat center center/cover;
+       width: 100%;
+       margin-top: 50px;   
+ 
+    }
+.servicios_fondo img{
+    width: 100%;
+    
+   
+}
+.servicios_seccion_home{
+ max-width: 1366px;   
+ margin: auto;
+}
+.servicios_seccion_home img{
+    width: 100%;
+
+}
+
+.servicios_content1 {
+    background: url(../img/ServiciosImg/atencion-personalizada-min.png)no-repeat center center/cover;
+    width: 50%;
+    height: 400px;
+    object-fit: cover;
+    
+    
+
+
+}
+
+.servicios_content1 img {
+    width: 100%;
+
+}
+
+.servicios_content2 {
+    width: 50%;
+    padding-left: 80px;
+    color: #ddd;
+  
+    
+
+
+}
+
+.servicios_content_2 {
+    display: flex;
+    justify-content: center;
+    align-items: start;
     max-width: 1366px;
     margin: auto;
-    background-position-y: -500px;
     
-background-attachment: fixed;
+    /* color: #002E9A; */
+    color: #ddd;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgba(0,0,0,0.2);
    
+
 }
 
-@media(max-width:768px){
-    .logo_carousel img{
-        width: 225px; ;
-    }
+.servicios_content_20 {
 
-    .logo_carousel{
-     height: 300px;
-     margin: auto;
-        
-    }
-    .logo_carousel img{
-        
-        width: 200px;
-           
-       }
-       
+    background: url(../img/ServiciosImg/personal-capacitado-min.png)no-repeat center center/cover;
+    width: 50%;
+    
+    object-fit: cover;
+    height: 400px;
+ 
 }
+
+.servicios_content_20 img {
+    width: 100%;
+}
+
+.servicios_content_10 {
+    width: 50%;
+}
+.carrusel1 {
+    margin-bottom: -100px;
+    overflow: hidden;    
+}
+
+
+
+
 
 /* ----------------------------- */
 
-.servicios_img{
+
+.servicios_img {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     width: 100%;
     flex-wrap: wrap;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+    
+   
+   
 }
 
 
-.serv_img{
-    width: 150px;
-    height: 150px;
+.serv_img {
+    width: 100px;
+    height: 100px;
     margin: 50px;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1em;
+    
     
 }
 
-.servicios_img img{
+/*----- servicioss -------- top */
+.servicios_img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
     
+    
+
 
 }
 
-.servicios_home{
-    margin-top: 100px;
-    max-width: 1366px;
+
+.servicios_home {
+    width: 100%;
     margin: auto;
+    padding-top:200px ;
+    color: #002E9A;
+    font-family: 'Montserrat', sans-serif;
+    
+    /* background-color: aqua; */
+    
+
+}
+
+
+.btns_home {
+    position: absolute;
+    z-index: 100;
+    color: rgb(196, 196, 196);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+
+}
+
+.btns_home a {
+    text-decoration: none;
+    color: white;
+}
+
+.btns_home a:hover {
+    color: white;
+}
+
+.btn_conocenos {
+    padding: 15px 20px 15px 20px;
+    width: 150px;
+    text-align: center;
+    margin-right: 20px;
+    background-color: #0a2c8a;
+    font-size: 1.1em;
+    box-shadow: 2px 2px 5px rgba(49, 48, 99, 0.405);
+    color: #ddd;
+    margin: auto;
+
+
+}
+
+.btn_cotizanos {
+    padding: 15px 20px 15px 20px;
+    width: 150px;
+    text-align: center;
+    box-shadow: 2px 2px 5px rgba(49, 48, 99, 0.405);
+    background-color: #0a2c8a;
+    font-size: 1.1em;
+    color: #ddd;
+    margin: auto;
+
+}
+
+.btn_margin {
+    margin-top: -100px;
+    margin-bottom: 100px;
+}
+
+.btn_margin a {
+    text-decoration: none;
+}
+
+.btn_conocenos:hover {
+
+    background-color: #0433a0;
+
+}
+
+.btn_cotizanos:hover {
+    background-color: #0433a0;
+}
+
+@media(max-width:1024px) {
+
+    .btn_conocenos,
+    .btn_cotizanos {
+        width: 120px;
+        font-size: 1em;
+    }
+
+
+}
+
+
+@media(max-width:768px) {
+    .img_home_midle {
+        margin-top: -250px;
+    
+        margin-bottom: 20px;
+        
+    
+    }
+    .servicios_home_espacio{
+        display: none;
+    }
+
+    .img_home_midle {
+        background: url(../img/img_home/img_home_middle-min.PNG)no-repeat center center/cover;
+        max-width: 1366px;
+        height: 450px;
+        margin: auto;
+        background-attachment: fixed;
+        /* background-position-y: -500px; */
+        padding-top: -100px;
+        
+
+    }
+    .servicios_img img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        margin-top: -20px;
+        text-align: center;
+        
+    
+    
+    }
+
+   .servicios_titulo {
+        font-size: 2em;
+
+    }
+
+    .logo_carousel {
+        height: 300px;
+        margin: auto;
+
+    }
+
+    .logo_carousel img {
+
+        width: 200px;
+
+    }
+
+    .servicios_home {
+        
+        
+        
+        
+    }
+
+    .servicios_content {
+        flex-direction: column;
+        margin-bottom: 100px;
+        font-size: 1.1em;
+        margin-top: 150px;
+    }
+
+    .servicios_content_2 {
+        flex-direction: column;
+        font-size: 1.1em;
+        margin-top: -100px;
+    }
+    
+    .servicios_content1,
+    .servicios_content2,
+    .servicios_content_10,
+    .servicios_content_20 {
+        
+        margin-top: 50px;
+        width: 100%;
+    }
+    
+    .servicios_content_20 {
+        margin-left: 0;
+        margin-bottom: -50px;
+        
+    }
+    
+    .servicios_content_10 {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    
+    .servicios_content2 {
+        
+        padding-right: 30px;
+    }
+
+    .btns_home {
+        width: 100%;
+        margin-top: 255px;
+        /* background-color: #002E9A; */
+        background-color: #131f47;
+        height: auto;
+        box-shadow: 2px 2px 5px rgb(49, 48, 99);
+
+
+    }
+
+    .serv_img {
+        font-size: 1.2em;
+       
+        
+
+    }
+    
+
+    .btn_conocenos {
+        padding: 10px 20px 10px 20px;
+    }
+
+    .btn_cotizanos {
+        padding: 10px 20px 10px 20px;
+    }
+
+    .servicios_content1 {
+        margin: auto;
+    }
+
+ 
+
+    .whatsapp_contact {
+        position: absolute;
+        width: 50px;
+        right: 10px;
+        z-index: 10;
+
+    }
+
+    .whatsapp_contact {
+        position: fixed;
+        right: 20px;
+        bottom:70px;
+        width: 50px;
+        z-index: 10;
+        
+    }
+    
+    .whatsapp_contact img {
+        width: 45px;
+    }
+}
+@media(min-width:768px) {
+
+
+    .btns_home {
+
+        margin-left: 20px;
+
+
+    }
+
+    .btn_conocenos {
+
+        margin: 10px;
+
+    }
+
+    .btn_cotizanos {
+
+        margin: 10px;
+
+    }
+
+    .btn_cotizanos {
+
+        margin: auto;
+
+    }
+
+    .btn_margin {
+        margin-bottom: 100px;
+        margin-top: -100px;
+    }
+    
+}
+@media(min-width:480px) {
+
+    .servicios_img {
+       
+        text-align: center;
+        width: 100%;
+        flex-wrap: wrap;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgba(0, 0, 0, 0.075);
+        box-shadow: 2px 2px 5px rgba(49, 48, 99, 0.521);
+        
+    }
+    
+    
+    .serv_img {
+        
+        width: 125px;
+        height: 125px;
+        margin: 50px;
+        text-align: center;
+        font-size: 1.3em;
+        
+        
+        
+    }
+    
+    .servicios_img img {
+        width: 125px;
+        height: 125px;
+        object-fit: cover;
+        margin-bottom: 10px;
+        margin-top: 0; 
+    
+    }
+    .servicios_content_2 {
+     padding: 85px;
+       
+    }
+    .servicios_content{
+        padding: 85px;
+    }
+
 }
