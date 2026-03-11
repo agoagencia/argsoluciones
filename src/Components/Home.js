@@ -41,7 +41,7 @@ function Home() {
                 <div className='logo_carousel'><img src={logo} alt=''></img></div>
             </div>
             <div className='whatsapp_contact'>
-                <a target="_blank" rel="noopener noreferrer" href="https://wa.me/526624515925?text=Contactar%20con%20un%20asesor"><img src={whatsappIcon}></img></a>
+                <a target="_blank" rel="noopener noreferrer" href="https://wa.me/526621113020?text=Contactar%20con%20un%20asesor"><img src={whatsappIcon}></img></a>
             </div>
 
 
